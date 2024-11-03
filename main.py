@@ -25,10 +25,10 @@ def send_request(text):
 
 
 def MLMA_en_response():
-    df = pd.read_csv("./preprocessedData/MLMA-hate-speech/en_dataset.csv")
-    #df['gpt-4o-mini'] = df['text'].apply(lambda x: len(x)%2)
-    df.loc[:9, 'gpt-4o-mini'] = df.loc[:9, 'text'].apply(lambda x: send_request(x))
-    df.to_csv("./preprocessedData/MLMA-hate-speech/en_dataset.csv", index=False)
+    df = pd.read_csv("./data/preprocessed/MLMA-hate-speech/en_dataset.csv")
+    df['gpt-4o-mini'] = df['text'].apply(lambda x: len(x)%2)
+    #df.loc[:9, 'gpt-4o-mini'] = df.loc[:9, 'text'].apply(lambda x: send_request(x))
+    df.to_csv("./data/result/MLMA-hate-speech/en_dataset.csv", index=False)
     
 #print(send_request("This is a sample text"))
 MLMA_en_response()
