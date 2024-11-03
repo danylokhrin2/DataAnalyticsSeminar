@@ -6,10 +6,12 @@ files = ["MLMA-hate-speech/en_dataset.csv", "MLMA-hate-speech/ar_dataset.csv", "
 for file in files:
     df = pd.read_csv("./data/" + file)
     df['SEXISM'] = df['target'].apply(lambda x: 1 if x == 'gender' else 0)
-    # rename tweet column to text
     df = df.rename(columns={"tweet": "text"})
     df = df[['text', 'SEXISM']]
     df.to_csv("./preprocessedData/" + file, index=False)
+    df['gpt-4o-mini'] = None
+    df = df[['text', 'SEXISM', 'gpt-4o-mini']]
+    
                  
 
 # Ethos dataset
