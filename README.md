@@ -10,3 +10,7 @@
 - **raw**: This folder contains all the original data files used in the project.
 - **preprocessed**: This folder contains all the data files that have been preprocessed and are ready for analysis. It has the following format `text,SEXISM` where `SEXISM` is either `0` or `1`
 - **result**: This folder contains all the results obtained from the LLMs.
+
+## LLM
+
+- contains all the LLM models used in the project and their respective calls.
