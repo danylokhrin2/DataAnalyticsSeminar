@@ -169,7 +169,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 168,Ethos_Dataset_Multi_Label,0,1.0,,,,,,,"Transgenderism is a DISEASE. Transgenders are an abomination. Not only that, but they're also lying to themselves. You CANNOT. change your DNA from male to female, or from female to male.  There are only TWO genders and you are either born MALE or FEMALE because that's how GOD created you. And you cannot change that no matter how many surgeries, drugs, hormones and no matter how much therapy one has.  FACT"
 169,Ethos_Dataset_Multi_Label,0,0.0,,,,,,,Why are we not allowed to kill christians?
 170,Ethos_Dataset_Multi_Label,0,1.0,,,,,,,Ugly white girls and white dudes would not get away with that.
-171,Ethos_Dataset_Multi_Label,1,,,,,,,,"Women are our property. The sooner they realize that, the better."
+171,Ethos_Dataset_Multi_Label,1,,,,,,,1.0,"Women are our property. The sooner they realize that, the better."
 172,Ethos_Dataset_Multi_Label,0,0.0,,,,,,,You should be so meaner to dyslexic people.
 173,Ethos_Dataset_Multi_Label,0,,,,,,,,Ugly long chin brainless problematic mother fucker he looks retarded
 174,Ethos_Dataset_Multi_Label,1,,,,,,,,Women!!! Grow a pair and refuse to compete with men!!! This is asinine!
@@ -282,7 +282,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 281,Ethos_Dataset_Multi_Label,0,0.0,,,,,,,With no legs you are just a bag of meat in your household. Do them the favour and get dead already
 282,Ethos_Dataset_Multi_Label,0,1.0,,,,,,1.0,Why are niggers superior athletically to all other races?
 283,Ethos_Dataset_Multi_Label,0,0.0,,,,,,,Those black people are fucking pale
-284,Ethos_Dataset_Multi_Label,0,,,,,,,,This channel is more dangerous than Islam
+284,Ethos_Dataset_Multi_Label,0,,,,,,,0.0,This channel is more dangerous than Islam
 285,Ethos_Dataset_Multi_Label,0,,,,,,,,"They hate: dogs, women, gays, christians, jews and infidels. Sure, let them all in. Only 250,000,000 want to kill us."
 286,Ethos_Dataset_Multi_Label,1,,,,,,,1.0,Waitresses are cunts
 287,Ethos_Dataset_Multi_Label,1,,,,,,,,"Roses are red. Your sweatshirt is blue. When a white girl gets raped, the suspect for sure is you!"
@@ -411,7 +411,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 410,Ethos_Dataset_Multi_Label,0,1.0,,,,,,,How can Europe allow millions of rapists animals to go there ?
 411,Ethos_Dataset_Multi_Label,0,,,,,,,,How can anyone be converted forcebly? What profits Christianity. May be Hindu groups are jealous of Christians up coming. They want Christians to be Hindu goons. Who is that tied saffron on forehead. Is he gaurdian of Hinduism like Shankar Acharya or Vivekananda?
 412,Ethos_Dataset_Multi_Label,1,,,,,,,,HOPE THEY KNOCK HER ASS TO THE GROUND AND RIP HER DRESS OFF AND SHAME HER....NOW THATS A POWERFUL IMAGE.
-413,Ethos_Dataset_Multi_Label,0,,,,,,,,Hello I'm calling from tech support *with Indian accent*
+413,Ethos_Dataset_Multi_Label,0,,,,,,,0.0,Hello I'm calling from tech support *with Indian accent*
 414,Ethos_Dataset_Multi_Label,0,1.0,,,0.0,,,,Go bleach yourself black pussy doll and then come talk to me
 415,Ethos_Dataset_Multi_Label,1,,,,,,,,"Generally speaking, most women are lazy and worthless not all, but most."
 416,Ethos_Dataset_Multi_Label,1,1.0,,,,,,,fucking slut deserved it
@@ -539,7 +539,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 538,en_dataset,1,0.0,,,,,,,@user everything enraging. smug little twat.
 539,en_dataset,0,,,,,,,,smelly psy blk mom tryin tu send retard kid blk goons car nights sleepnnthe leader smelly @url
 540,en_dataset,0,,,,,,,1.0,trump hate jews lmfao ya niggas full retard. know work @user @user right? @url
-541,en_dataset,0,,,,,,,,buy @user @user @user @user @user @user regularly alternatives @url
+541,en_dataset,0,,,,,,,0.0,buy @user @user @user @user @user @user regularly alternatives @url
 542,en_dataset,0,0.0,,,,,,,@user @user honduras guatemala??? would considered shithole countries well?
 543,en_dataset,0,,,,,,,,@user fuck faggot
 544,en_dataset,0,,,,,,,,look leftist terrorist like guy shot @user softball game compar @url
@@ -613,7 +613,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 612,en_dataset,0,,,,,,,,15 mins netflix &amp; chill called faggot
 613,en_dataset,0,,0.0,,,,,,@user @user happens anel retarded.
 614,en_dataset,0,,,,,,,,@user @user waste graceful white filthy refugees.
-615,en_dataset,1,0.0,,,,,,,@user lmfao shut cunt unfollow
+615,en_dataset,1,0.0,,,,,,1.0,@user lmfao shut cunt unfollow
 616,en_dataset,0,,,,,,,,@user ching chong
 617,en_dataset,0,,,,,,,1.0,@user brazil go vote use finger print id 3rd world shithole... wh @url
 618,en_dataset,0,,,,,,,,photographer - humana - 4 #portrait #rio_negro #argentina #strkng #photography #contemporary #bestof @url
@@ -642,7 +642,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 641,en_dataset,0,,,,,,,,@user really want turn country shithole. going happen.
 642,en_dataset,1,0.0,,,,,,,fucking hate lanky ginger cunt joseph brady
 643,en_dataset,0,0.0,,,,,,,#dodamage slogan unbelievably stupid. every offense's goal damage. gives mongoloid boston f @url
-644,en_dataset,0,,,,,,,,i'm gay i'm faggot shut fuck up.
+644,en_dataset,0,,,,,,,1.0,i'm gay i'm faggot shut fuck up.
 645,en_dataset,0,,,,,,,,@user retard tranny spic show good
 646,en_dataset,0,0.0,,,,,,,i'm racist! touched tan dick once. sure race though. kinda spic.
 647,en_dataset,0,,,,,,,1.0,@user @user @user woman. tool. make feel unsafe. how's retard.
@@ -820,7 +820,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 819,en_dataset,0,1.0,,,,,,,criticism soros actually attack jews? nreferring globalist akin saying dirty jew @url
 820,en_dataset,0,0.0,,,,,,1.0,msnbc 7 bombs sent democrats conspiracy mongoloid right dirt bags. bombs tack therefore fb @url
 821,en_dataset,0,0.0,,,,,,,@user @user lemon husband jealous!!! buntch retarded clowns 
-822,en_dataset,0,,,,,,,,..why illegal aliens allowed mobile phones? @url
+822,en_dataset,0,,,,,,,1.0,..why illegal aliens allowed mobile phones? @url
 823,en_dataset,0,1.0,,,,,,,every time see fine ass dyke always mediocre fem 
 824,en_dataset,0,0.0,,,,,,,@user nigger
 825,en_dataset,0,,,,,,,,@user hi still thinking mongoloid ingrate yesterday dirty snp bastard called @url
@@ -857,7 +857,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 856,en_dataset,0,1.0,,,,,,1.0,thete nrrd call corina cunt! need!!
 857,en_dataset,0,1.0,,,,,,,meant funny...fuckin cunt @url
 858,en_dataset,0,,,,,,,,@user comes movie since saying retard unwoke replaced family friendly version
-859,en_dataset,0,0.0,,,,,,,grandma teach children spanish reason immigrants refuse learn/speak english fe @url
+859,en_dataset,0,0.0,,,,,,1.0,grandma teach children spanish reason immigrants refuse learn/speak english fe @url
 860,en_dataset,0,,,,,,,,18. enter illegal aliens. @user used model created bay area politicians like @user repl @url
 861,en_dataset,0,,,,,,,,#kpop auto-tune ching chong
 862,en_dataset,1,,,,,,,,@user obviously cunt even know teams history
@@ -895,7 +895,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 894,en_dataset,1,0.0,,,,,,, either crazy retarded thin line separates could 
 895,en_dataset,0,,,,,,,,easily turn straight boy cock thirsty cum addicted faggot. nnblack cock is.nnn#findom @url
 896,en_dataset,0,0.0,,,,,,1.0,alec :) _ retarded (: @url
-897,en_dataset,0,,,,,,,,sarah silverman gone total retard smh @url
+897,en_dataset,0,,,,,,,1.0,sarah silverman gone total retard smh @url
 898,en_dataset,0,,,,,,,,oh well try hard shithole countries-maybe someday happen!
 899,en_dataset,0,,,,,,,0.0,@user nigga started lagging left retard
 900,en_dataset,0,,,,,,,,omg tea! using terms hurt offend used sorry idc retarded  @url
@@ -955,7 +955,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 954,en_dataset,0,,,,,,,,@user @user @user first thought leftist muslim terrorist. wrong. nee @url
 955,en_dataset,0,,,,0.0,,,,herenni two parts/a personnboricua/spicnpast presentnalive oppressedngiven cultural beautyn. . . @url
 956,en_dataset,0,,,,,,,,smiling like retard  @url
-957,en_dataset,0,,,,,,,,appear mad bomber van cleaned spic-and-span got arrested?
+957,en_dataset,0,,,,,,,1.0,appear mad bomber van cleaned spic-and-span got arrested?
 958,en_dataset,0,,,,,,,,hey cupcake shooter terrorist extremists leftist anti trumper... anti leo thoughts noted. th @url
 959,en_dataset,0,,,,,,,,@user @user happy bday @user gay faggot !!
 960,en_dataset,0,0.0,,,,,,,people say grinch leak fake incineroar ain't literally retarded
@@ -1002,7 +1002,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1001,en_dataset,0,,,,,,,,so. jonathan chait retarded? @url
 1002,en_dataset,0,0.0,,,,,,,@user yeah negro
 1003,en_dataset,0,,,,,,,1.0,@user ninja that?!  seriously guy literally retarded. every likes show @url
-1004,en_dataset,0,,,,,,,,@user yeah baby mongy
+1004,en_dataset,0,,,,,,,1.0,@user yeah baby mongy
 1005,en_dataset,0,,,,,,,,@user @user @user call n**** tell go back country!
 1006,en_dataset,0,0.0,,,,,,1.0,@user hurry faggot wanna see
 1007,en_dataset,1,1.0,,,,,,1.0,@user @user silly little cunt think people affected it. plus it' @url
@@ -1078,7 +1078,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1077,en_dataset,0,,,,,,,,palabek refugee settlement centre - lamwo district host 31173 south sudanese refugees #uganda
 1078,en_dataset,1,1.0,,,,,,,today's ridiculously vapid intolerant cunt-radiction brought letter currently ascender-transitio @url
 1079,en_dataset,0,1.0,,,,,,1.0,cunt needs suspending @user @url
-1080,en_dataset,0,0.0,,,,,,,@user @user @user @user ripley someone who'd illegal aliens getting smuggled in.
+1080,en_dataset,0,0.0,,,,,,1.0,@user @user @user @user ripley someone who'd illegal aliens getting smuggled in.
 1081,en_dataset,0,,,,,,,1.0,@user @user obama member ?ching chong ? club photos blazing ganga
 1082,en_dataset,0,,,,,,,,gavin mc innes:nusing words asfaggot nigger+slutare context.they swear words;go 2 old black g @url
 1083,en_dataset,0,0.0,,,,,,,literally heard co worker cuss boyfriend phone calling retard fat fuck like tak @url
@@ -1440,7 +1440,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1439,en_dataset,0,,,,,,,,@user number leftist extremist terrorist/mass shooters eclipses number right.nyour contenti @url
 1440,en_dataset,0,,,,,,,1.0,@user @user @user comedy spic
 1441,en_dataset,0,0.0,,,,,,1.0,greatest country world. become shithole. breaks heart every day #vote @url
-1442,en_dataset,0,,,,,,,,street smart faggot. 'smart' counts cadillac. never happy house 2003 @url
+1442,en_dataset,0,,,,,,,1.0,street smart faggot. 'smart' counts cadillac. never happy house 2003 @url
 1443,en_dataset,0,,,,,,,,@user @user blood jesus  ching chong @url
 1444,en_dataset,0,,,,,,,,@user @user course _spic!
 1445,en_dataset,0,1.0,,,,,,,dirty stupid nigger typical @url
@@ -1486,7 +1486,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1485,en_dataset,0,,,,,,,,really can't put level intelligence next semi-retard point 
 1486,en_dataset,0,1.0,,,,,,,@user @user aggressive toward best girl fucking mongoloid
 1487,en_dataset,0,,,,,,,,drunk cunt 
-1488,en_dataset,0,0.0,,,,,,,@user shame absolute faggot
+1488,en_dataset,0,0.0,,,,,,1.0,@user shame absolute faggot
 1489,en_dataset,0,,,,,,,1.0,41 years ago today child born. parents feared worst (for second thought mongoloid). @url
 1490,en_dataset,0,,,,,,,,tweeting asking time awful cunt!!!! #jussayin
 1491,en_dataset,0,0.0,,,,,,1.0,@user confederacy would likely shithole country.
@@ -1521,7 +1521,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1520,en_dataset,0,0.0,,,,,,,@user @user @user okay white.
 1521,en_dataset,0,,,,,,,,want punch face fucking much disrespectful ching chong
 1522,en_dataset,0,0.0,,,,,,,breaking news: dyke drought increases rapidly day goes suspicious entity read @url
-1523,en_dataset,1,,,,,,,,feed twat lions. @url
+1523,en_dataset,1,,,,,,,1.0,feed twat lions. @url
 1524,en_dataset,0,1.0,,,,,,,foh mongoloid bitch @user
 1525,en_dataset,0,,,,,,,,@user ill dress black face chinaman savage injun whatever want to! america horseface!
 1526,en_dataset,0,,,,,,,,@user @user @user chris spic. glad he's gone.
@@ -1603,7 +1603,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1602,en_dataset,0,0.0,,,,,,,@user @user getting illegal aliens illegally 'vote' dem voter fraud machine count.
 1603,en_dataset,0,0.0,,,,,,,@user @user @user show leftist terrorist attacks last two years. yet we've got mor @url
 1604,en_dataset,0,0.0,,,,,,,@user went full retard never go full retard @url
-1605,en_dataset,0,,,,,,,,@user laughed retarded man is.
+1605,en_dataset,0,,,,,,,1.0,@user laughed retarded man is.
 1606,en_dataset,0,0.0,,,,,,,@user @user @user retard
 1607,en_dataset,0,,,,,,,,target jews media? bankers? zog?nthis faggot probably killed stabucks barista jew accomplished zero
 1608,en_dataset,0,0.0,,,,,,,@user parents called loner faggot said
@@ -1710,8 +1710,8 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1709,en_dataset,0,0.0,,,,,,,know meaning word  respect country turned shithole @url
 1710,en_dataset,0,,,,,,,,@user @user expect anything mongol scum? @url
 1711,en_dataset,1,1.0,,,,,,,feminazi bullsh*t make up. @url
-1712,en_dataset,0,0.0,,,,,,,lyft drivers fucking retarded
-1713,en_dataset,0,0.0,,,,,,,@user @user @user @user people shithole countries com @url
+1712,en_dataset,0,0.0,,,,,,1.0,lyft drivers fucking retarded
+1713,en_dataset,0,0.0,,,,,,0.0,@user @user @user @user people shithole countries com @url
 1714,en_dataset,0,0.0,,,,,,,many mongy condescending tweets ronaldo well. nnclap first get behind team nnthan @url
 1715,en_dataset,0,,,,,,,,@user @user @user joya negro gatoo avisen
 1716,en_dataset,0,,,,,,,,@user @user ching chong ding dong
@@ -1788,7 +1788,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1787,en_dataset,0,0.0,,,,,,,@user @user @user @user @user @user ca turning total shithole @url
 1788,en_dataset,0,,,,,,,1.0,takes guts stand rights appear retarded.
 1789,en_dataset,0,0.0,,,,,,,god doesnt make people retarded chuck norris does.
-1790,en_dataset,1,0.0,,,,,,,p.s. jethro trudeau always useless twat! @url
+1790,en_dataset,1,0.0,,,,,,1.0,p.s. jethro trudeau always useless twat! @url
 1791,en_dataset,1,0.0,,,,,,,foto gaya ngewe negro homosexvidoes
 1792,en_dataset,0,,,,,,,,@user make offers 24/7 deny 24/7 faggot
 1793,en_dataset,0,,,,,,,,@user @user @user @user @user
@@ -1803,7 +1803,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1802,en_dataset,0,0.0,,,,,,,fucking retard. nnorban lukashenko putin proved nationalism without bullets.nnyou're insane. @url
 1803,en_dataset,0,,,,,,,,baby called spic @url
 1804,en_dataset,1,,,,,,,,gonna take time create thread got go ahead wifey annihilate cunt &amp; tag e @url
-1805,en_dataset,0,,,,,,,,imagine fibbonaci sequence relation golden ratio fucking retardnn(this post @url
+1805,en_dataset,0,,,,,,,1.0,imagine fibbonaci sequence relation golden ratio fucking retardnn(this post @url
 1806,en_dataset,0,1.0,,,,,,,rakhi sawant dumb mentally retarded &amp; needs put away mental asylum. needs shut-up &amp; know @url
 1807,en_dataset,0,1.0,,,,,,,ha looks like ching chong china man
 1808,en_dataset,0,,,,,,,,get drunk feel retarded :/
@@ -1986,7 +1986,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 1985,en_dataset,0,,,,,,,,@user boutta hit raghead tire shop zane 
 1986,en_dataset,0,,,,,,,0.0,@user @user mongy humour
 1987,en_dataset,0,,,,,,,,@user needs remind @user one million polish immigrants flooded britain sent 23 bill @url
-1988,en_dataset,0,,,,,,,,@user i'm old school. grew prejudice like this. pollack mick spic wop kik @url
+1988,en_dataset,0,,,,,,,1.0,@user i'm old school. grew prejudice like this. pollack mick spic wop kik @url
 1989,en_dataset,0,,,,,,,,today asylum six iranian refugees. they're free live lives peace right
 1990,en_dataset,0,0.0,,,,,,,negro said nabiha?!?! even gonna sound smdh...
 1991,en_dataset,1,0.0,,,,,,,verstappen bad start crashes twat ricciardo 1st vettel 2nd @url
@@ -2071,7 +2071,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2070,en_dataset,0,,,,,,,,| |n stop using words n autism retard n insultsn|| n  () / @url
 2071,en_dataset,1,0.0,,,,,,,twat? @url
 2072,en_dataset,0,,,,,,,0.0,thank fuck get vardyaubalacca tearing enjoy sitting bench vardy yr shits mongy fucker 
-2073,en_dataset,0,,,,,,,,headline:nthat twat morgan talks sense change.n@url
+2073,en_dataset,0,,,,,,,1.0,headline:nthat twat morgan talks sense change.n@url
 2074,en_dataset,0,0.0,,,,,,,mitch mcconnell affair shithole countries!
 2075,en_dataset,0,,,,,,,,note #hollywood : fuck trump/drumpf makes look retarded. making career decisions based p @url
 2076,en_dataset,0,0.0,,,,,,1.0,@user mean smart enough leave 3rd world shithole came credit cre @url
@@ -2187,7 +2187,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2186,en_dataset,0,,,,,,,,faggot adxmant
 2187,en_dataset,0,,,,,,,,@user @user lmao deleted tweets spic related &amp; beaner related.
 2188,en_dataset,0,,,,,,,1.0,@user youre posting statistics way back 2013 cant see america getting immigrants @url
-2189,en_dataset,0,0.0,,,,,,,@user another mongy twitter account shaun report racist remarks jus @url
+2189,en_dataset,0,0.0,,,,,,0.0,@user another mongy twitter account shaun report racist remarks jus @url
 2190,en_dataset,0,0.0,,,,,,0.0,@user sorry hear experience mr punia :( try best keep aircraft spic span @url
 2191,en_dataset,0,,,,,,,,3rd 1. fucking coaches learn snap shot gun??? fucking retard #pokes
 2192,en_dataset,0,,,,,,,,@user immigrants upper echelon. majority come country looking opportunity. @url
@@ -2252,7 +2252,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2251,en_dataset,0,0.0,,,,,,1.0,@user @user hard u playing better team &amp; ya manager retard
 2252,en_dataset,0,,,,,,,,fucken hate customers come store 5 mins closing try shit on. fuck cunt wanna go home
 2253,en_dataset,1,0.0,,,,,,1.0,@user stop giving twat attention. obvious clout chasing
-2254,en_dataset,0,,,,,,,,threesome definitely going dyke joins bitches ain't taking nigga
+2254,en_dataset,0,,,,,,,1.0,threesome definitely going dyke joins bitches ain't taking nigga
 2255,en_dataset,0,,,,,,,,sometimes find crazy we're tiny spic dust whole universe
 2256,en_dataset,0,0.0,,,,,,,#southafrica
 2257,en_dataset,1,,,,,,,,man: oh stop feminazi
@@ -2266,7 +2266,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2265,en_dataset,0,,,,,,,,can't believe said faggot n word everyone like ^____^
 2266,en_dataset,0,,,,,,,0.0,retard
 2267,en_dataset,1,0.0,,,,,,1.0,least he's consistently cunt #trump #pittsburgh #unfittobepresident #unfitforoffice @url
-2268,en_dataset,0,,,,,,,,torba exactly kind autistic retard would make thinly veiled brag tweet many hits webs @url
+2268,en_dataset,0,,,,,,,1.0,torba exactly kind autistic retard would make thinly veiled brag tweet many hits webs @url
 2269,en_dataset,0,,,,,,,,@user @user fact freakin ridiculous. kemp mongoloid
 2270,en_dataset,0,,,,,,,1.0,+you're faggot harry.nn-i'm a... what?!nn+harry faggot.nn-i'm what?!nn+a foggot harry.nn-i'm faggo @url
 2271,en_dataset,0,,,,,,,0.0,@user @user @user @user en quoi parler de nombre de migrants devient une statistique ethnique. @url
@@ -2288,7 +2288,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2287,en_dataset,0,,,,,,,,@user @user u say ching chong ping pong first met chinatown?????
 2288,en_dataset,0,,,,,,,,memes team 10 conspiracy galactic faggot
 2289,en_dataset,0,0.0,,,,,,,retard @url
-2290,en_dataset,1,1.0,,,,,,,whey hey boring old trout mis pouting cunt blocked like telling truth @url
+2290,en_dataset,1,1.0,,,,,,1.0,whey hey boring old trout mis pouting cunt blocked like telling truth @url
 2291,en_dataset,0,0.0,,,,,,,son little faggot. fuck evan. hate changing disgusting diapers.
 2292,en_dataset,0,1.0,,,,,,,finally japanese songs longer typical ching chong sound
 2293,en_dataset,1,,,,,,,1.0,@user omg...i'm feminist... feminazi i'm man comfortable man body
@@ -2485,7 +2485,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2484,en_dataset,0,,,,,,,,mike pence following girls? faggot jumped out!!
 2485,en_dataset,0,,,,0.0,,,,already back 80s scientists warned us would huge #invasion shithole countries @url
 2486,en_dataset,0,,,,,,,,@user country shithole trump.
-2487,en_dataset,0,,,,,,,,@user lee hsien loong's chinaman criminal teck boon huat (chinaman harry potter) malaysian tamil mosle @url
+2487,en_dataset,0,,,,,,,1.0,@user lee hsien loong's chinaman criminal teck boon huat (chinaman harry potter) malaysian tamil mosle @url
 2488,en_dataset,0,0.0,,,,,,1.0,i'll donate fiver call @user tory hating cunt. #standuptocancer @url
 2489,en_dataset,0,0.0,,,,,,,hits like arrow moved air another belter keown even though arrow goes straight big mongy ugly cunt.
 2490,en_dataset,0,,,,,,,,illegal immigrants going destroy america. saddest thing really.
@@ -2509,7 +2509,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2508,en_dataset,0,,,,,,,,meant  turns i'm illiterate faggot sad
 2509,en_dataset,0,1.0,,,,,,1.0,ok berlin kicked cunt
 2510,en_dataset,0,,,,,,,,texted didnt text back text responses npt (nigger people time)
-2511,en_dataset,0,,,,,,,,dawg yaw michael myers masks look retarded ?????
+2511,en_dataset,0,,,,,,,0.0,dawg yaw michael myers masks look retarded ?????
 2512,en_dataset,0,0.0,,,,,,1.0,ever complain tinpot dictatorships shithole countries happens greatest' democ @url
 2513,en_dataset,0,,,,,,,,person one say it. awful wetback spic ugh @url
 2514,en_dataset,0,,,,,,,,imad wasim audacity cr7 celebration. irredeemable twat.
@@ -2529,7 +2529,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2528,en_dataset,0,,,,,,,,@user ahhh....it's mongol hordes! everybody hide women children!nnoh wait..you say hu @url
 2529,en_dataset,0,0.0,,,,,,,trump fucking twat! @url
 2530,en_dataset,0,,,,,,,,white people retarded lol #confirmed @url
-2531,en_dataset,0,0.0,,,,,,,cant believe people retarded.
+2531,en_dataset,0,0.0,,,,,,0.0,cant believe people retarded.
 2532,en_dataset,0,,,,,,,,fuck rivalry. make jokes people intensive care dying twat. @url
 2533,en_dataset,1,,,,,,,,picked liam good mate n dirty little gremlin cunt thrown car
 2534,en_dataset,1,,,,,,,,knocked sick .... cunt @url
@@ -2617,7 +2617,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2616,en_dataset,0,0.0,,,,,,,banter codeword cunt.
 2617,en_dataset,0,0.0,,,,,,1.0,@user @user @user found time knock profile up? small heath mongoloid. get job.
 2618,en_dataset,0,0.0,,,,,,,true. especially music. taking class rock history american music started negro spiritu @url
-2619,en_dataset,0,,,,,,,,@user didnt want vc ur antics mongoloid
+2619,en_dataset,0,,,,,,,1.0,@user didnt want vc ur antics mongoloid
 2620,en_dataset,0,1.0,,,,,,,@user ching chong sing along
 2621,en_dataset,0,,,,,,,1.0,@user idea perpetrated this. stop twat.
 2622,en_dataset,0,,,,,,,,honesty though imagine image. faggot. dumb ass cuck talking girl. least @url
@@ -2683,7 +2683,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2682,en_dataset,0,,,,,,,,sisters autistic much nuisance cunt @url
 2683,en_dataset,0,1.0,,,,,,,want bit belly y'all argue end calling fat cunt. @url
 2684,en_dataset,0,1.0,,,,,,,cunt @url
-2685,en_dataset,0,0.0,,,,,,,@user @user @user real.. let's let criminal illegal aliens &amp; ridicule &amp; convict man @url
+2685,en_dataset,0,0.0,,,,,,1.0,@user @user @user real.. let's let criminal illegal aliens &amp; ridicule &amp; convict man @url
 2686,en_dataset,0,,,,,,,,@user @user @user donald trump retard-.. people study down's syndrome saying yes @url
 2687,en_dataset,1,,,,,,,,6 games row i've joined progress fuck cunt
 2688,en_dataset,0,0.0,,,,,,0.0,#safepathways way #refugees #refugeeswelcome @url
@@ -2739,7 +2739,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2738,en_dataset,0,,,,,,,1.0,@user @user @user danny's chinaman
 2739,en_dataset,0,,,,,,,,@user irony trump calling countries shithole countries never ceases amuse me.
 2740,en_dataset,0,0.0,,,,,,,@user who's retarded ass kick
-2741,en_dataset,0,0.0,,,,,,,@user lol retard
+2741,en_dataset,0,0.0,,,,,,0.0,@user lol retard
 2742,en_dataset,0,0.0,,,,,,,someone remove mongy jude corrie makes wanna smash telly 
 2743,en_dataset,0,0.0,,,,,,,@user @user hey glen first fucking mongoloid p riddy play p diddy.nn2nd reall @url
 2744,en_dataset,1,0.0,,,,,,,yes instead anything productive fuck im dumb cunt
@@ -2866,7 +2866,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2865,en_dataset,0,,,,,,,,@user guess i'm retarded
 2866,en_dataset,0,,,,,,,,@user @user money employment important dead raghead! stay tuned ne @url
 2867,en_dataset,0,,,,,,,,fucking horrible cunt. @url
-2868,en_dataset,0,0.0,,,,,,,saturday night spent bed cus every cunt earth  unreal stuff
+2868,en_dataset,0,0.0,,,,,,1.0,saturday night spent bed cus every cunt earth  unreal stuff
 2869,en_dataset,0,0.0,,,,,,,@user say nigger text chat everyone getting banned say word nibba
 2870,en_dataset,0,0.0,,,,,,,reminder donegal biggest shithole country @url
 2871,en_dataset,0,,,,,,,,@user rosie o'donnell: ching chong ping pong wing wong... cool- chinese friends. cool. &lt;-- @url
@@ -2898,7 +2898,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2897,en_dataset,0,1.0,,,,,,,better get raghead political agendas he's going look muslims brotherhood! kid @url
 2898,en_dataset,0,,,,,,,,@user brave twat shooting sleeping animal. idiots stop.
 2899,en_dataset,0,,,,,,,,good time remember trump asked accepting many refugees shithole countries rich l @url
-2900,en_dataset,0,,,,,,,,@user eurafrica 100% white
+2900,en_dataset,0,,,,,,,1.0,@user eurafrica 100% white
 2901,en_dataset,0,,,,,,,,@user feminazi fake news
 2902,en_dataset,1,,,,,,,,according every twat facebook twitter leicester city owner dead ffs get confirmed bef @url
 2903,en_dataset,1,,,,,,,,bye bye streaming career. cunt @url
@@ -2952,7 +2952,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 2951,en_dataset,0,0.0,,,,,,,aliens actually retarded
 2952,en_dataset,0,,,,,,,,@user cunt.
 2953,en_dataset,0,,,,,,,,unconscionable abattoir retarded children (bmc) led faux san kestus feyamo never understand wha @url
-2954,en_dataset,0,0.0,,,,,,,@user @user what's soup taker?
+2954,en_dataset,0,0.0,,,,,,0.0,@user @user what's soup taker?
 2955,en_dataset,0,,,,,,,,strange fruit comic super negro white guilt @url
 2956,en_dataset,0,1.0,,,,,,,lance stephenson got retard strength
 2957,en_dataset,1,,,,,,,,sometimes wake feeling like cunt drinking much night before. remember bad @url
@@ -3116,7 +3116,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3115,en_dataset,0,0.0,,,,,,,@user mongy fans decided nick wednesday use forest lots fus @url
 3116,en_dataset,0,1.0,,,,,,1.0,@user ooga booga chinaman?
 3117,en_dataset,0,1.0,,,,,,1.0,forms dumbest fucking spic i've ever met
-3118,en_dataset,0,,,,,,,,pread faggot internet... frre sharerepostretwittmake famous @url
+3118,en_dataset,0,,,,,,,1.0,pread faggot internet... frre sharerepostretwittmake famous @url
 3119,en_dataset,0,,,,,,,,sounds like shithole country. @url
 3120,en_dataset,0,0.0,,,,,,,@user one days one illegal aliens r going bring deadly disease kill half c @url
 3121,en_dataset,0,,,,,,,,wait california going let illegal aliens serve public office!?!? @url
@@ -3278,7 +3278,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3277,en_dataset,0,,,,,,,,got called nigger 3rd time week already started lol yall wild
 3278,en_dataset,0,,,,,,,,@user carries like might beat piers morgan twat decade award
 3279,en_dataset,0,0.0,,,,,,0.0,@user nigger talk me.
-3280,en_dataset,0,1.0,,,,,,,@user mexican faggot always ruining shit
+3280,en_dataset,0,1.0,,,,,,1.0,@user mexican faggot always ruining shit
 3281,en_dataset,1,,,,,,,,made another faggot cum wants play cup pong
 3282,en_dataset,0,0.0,,,,,,1.0,trying replace wes hate playa hate game gibbons negro....smh
 3283,en_dataset,0,,,,,,,,@user @user @user african nation's far shithole countries!! one got female pres @url
@@ -3441,7 +3441,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3440,en_dataset,1,,,,,,,,@user @user feminazi's fighting for? laws exist books need changing @url
 3441,en_dataset,0,0.0,,,,,,,time i've chinned club i've waiting 3 years hit harder next time faggot
 3442,en_dataset,0,1.0,,,,,,,name ching chong @url
-3443,en_dataset,0,,,,,,,,@user @user @user austrian soros paid protestor meme big factor austria @url
+3443,en_dataset,0,,,,,,,0.0,@user @user @user austrian soros paid protestor meme big factor austria @url
 3444,en_dataset,0,0.0,,,,,,,@user loom bands arent faggot culture
 3445,en_dataset,1,,,,,,,,bullied school probably. fucking twat. @url
 3446,en_dataset,0,0.0,,,,,,,anon faggot #greentext @url
@@ -3457,7 +3457,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3456,en_dataset,0,,,,,,,,@user australia full european post war refugees. logic perhaps @url
 3457,en_dataset,0,1.0,,,,,,,@user @user lee hsien loong's chinaman criminal teck boon huat (chinaman harry potter)and malaysian tamil @url
 3458,en_dataset,0,1.0,,,,,,,fact: boyfriend cunt mates allow even bigger cunt.
-3459,en_dataset,0,0.0,,,,,,,even fucking watch baseball even think tweet fucking retarded. say lot stupid shit b @url
+3459,en_dataset,0,0.0,,,,,,0.0,even fucking watch baseball even think tweet fucking retarded. say lot stupid shit b @url
 3460,en_dataset,0,1.0,,,,,,,@user @user do. northern native americans mongoloid features like asians. look eskimos. @url
 3461,en_dataset,0,,,,,,,,hush lil nigger @url
 3462,en_dataset,0,0.0,,,,,,,@user @user @user @user @user @user ya mommas bitch faggot. nthe bos @url
@@ -3491,9 +3491,9 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3490,en_dataset,0,0.0,,,,,,,'militia' let loose refugees ar
 3491,en_dataset,0,0.0,,,,,,0.0,roberts fuckin retard
 3492,en_dataset,0,,,,,,,,hey theres like 1 guy tik tok ironic shit thats hot fuck im saying im faggot dude
-3493,en_dataset,0,,,,,,,,coupe retarded @url
+3493,en_dataset,0,,,,,,,1.0,coupe retarded @url
 3494,en_dataset,0,,,,,,,,pollon negro
-3495,en_dataset,0,,,,,,,,@user #twt2018 lgbtq people seeking asylum uk told go back country - pretend @url
+3495,en_dataset,0,,,,,,,1.0,@user #twt2018 lgbtq people seeking asylum uk told go back country - pretend @url
 3496,en_dataset,0,,,,,,,1.0,swear whenever go class vandy see black people theyre thinking nigger here??
 3497,en_dataset,0,0.0,,,,,,,stop putting much sugar yer coffee grimy mongoloid
 3498,en_dataset,0,0.0,,,,,,,yep writing clearly wall. people come shithole countries shithole attitudes polici @url
@@ -3608,7 +3608,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3607,en_dataset,0,0.0,,,,,,,@user satanic sellout faggot .
 3608,en_dataset,0,,,,,,,,@user @user call us latinx would much rather called spic beaner latinx.
 3609,en_dataset,0,0.0,,,,,,,@user represent club one bit piss weird cunt
-3610,en_dataset,0,0.0,,,,,,,ching chong chang im tired
+3610,en_dataset,0,0.0,,,,,,0.0,ching chong chang im tired
 3611,en_dataset,1,1.0,,,,,,,@user @user opposed hillary? shirt lifting mongoloid
 3612,en_dataset,0,1.0,,,,,,,i'm korean smurf ching chong sing wang su long @url
 3613,en_dataset,1,1.0,,,,,,,@user epitome cunt.
@@ -3747,7 +3747,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3746,en_dataset,0,0.0,,,,,,,pretty sure got called faggot frat boy game okay bc another frat boy like hey 20 @url
 3747,en_dataset,1,,,,,,,,cause money connects mean guilty trick ass bitch. become cunt n @url
 3748,en_dataset,0,,,,,,,,@user get dyke screen
-3749,en_dataset,1,,,,,,,,@user hes literal twat hey? tried justify twitter toonthis guy went twitchcon @url
+3749,en_dataset,1,,,,,,,1.0,@user hes literal twat hey? tried justify twitter toonthis guy went twitchcon @url
 3750,en_dataset,0,0.0,,,,,,,@user @user leftist terrorist forgot obliterate guy's social media accounts like @url
 3751,en_dataset,0,,,,,,,1.0,remind time homegirl dating dyke neither one could open jar jelly lmao  @url
 3752,en_dataset,0,0.0,,,,,,,could go one #shithole countries right?nyeah alabama. rikers middle fina @url
@@ -3782,11 +3782,11 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3781,en_dataset,0,,,,,,,,@user deleting past posts since 2001 use term raghead towel head camel fucker @url
 3782,en_dataset,1,,,,,,,,machados fucking twat.
 3783,en_dataset,0,0.0,,,,,,1.0,@user @user unlike previous regime ran punjab like mongol halaku khan....
-3784,en_dataset,0,,,,,,,,@user yes retarded
+3784,en_dataset,0,,,,,,,1.0,@user yes retarded
 3785,en_dataset,0,,,,,,,,guess make mongoloid version tmnt nso one would offended #trashanimation #riseofthetmnt
 3786,en_dataset,0,0.0,,,,,,,@user tbf can't think anything worse singing outside pub bunch mongy south wallians @url
 3787,en_dataset,0,,,,,,,,@user fecking retard
-3788,en_dataset,0,0.0,,,,,,,@user bomber leftist: see left violent false flagnthe bomber maga chud: actu @url
+3788,en_dataset,0,0.0,,,,,,1.0,@user bomber leftist: see left violent false flagnthe bomber maga chud: actu @url
 3789,en_dataset,1,0.0,,,,,,,@user need find girlfriend time miserable cunt world
 3790,en_dataset,0,1.0,,,,,,1.0,@user @user officers warrant arrest son. get facts straight raghead.
 3791,en_dataset,0,,,,,,,,always asians model typical old types mongoloid idk like evolution human ? @url
@@ -3900,7 +3900,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3899,en_dataset,0,1.0,,,,,,,getting paid 100/hr pick cotton &amp; call u nigger @url
 3900,en_dataset,0,,,,,,,,marketbuy lowcap trash like retard?nnyes.nndid feel good?nnyes.nnwill get rekt?nnyes.
 3901,en_dataset,0,0.0,,,,,,,@user shut yo goofy ass nigga delete vid faggot
-3902,en_dataset,0,,,,,,,,watched slender. worst retarded fucking movie ever seen life
+3902,en_dataset,0,,,,,,,0.0,watched slender. worst retarded fucking movie ever seen life
 3903,en_dataset,0,,,,,,,,want shithole country
 3904,en_dataset,0,,,,,,,0.0,keep mind im negro open mind got screen door #carterv
 3905,en_dataset,0,0.0,,,,,,,@user murican tiping tradition like aint u already getting paid retard?
@@ -3967,7 +3967,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3966,en_dataset,0,,,,,,,,i'll spit dyke ass get beat bitch @user
 3967,en_dataset,1,0.0,,,,,,1.0,@user dumb. dumb. hooe dumb. eat shit racist twat
 3968,en_dataset,0,,,,,,,,@user john flower faggot weighs 700 pounds lives college dorm refrigerator
-3969,en_dataset,1,0.0,,,,,,,@user would head butted twat much sooner 2 minutes 20 seconds haha well 
+3969,en_dataset,1,0.0,,,,,,1.0,@user would head butted twat much sooner 2 minutes 20 seconds haha well 
 3970,en_dataset,0,,,,,,,,@user @user ice arresting people looking hispanic arresting illegal aliens.
 3971,en_dataset,0,0.0,,,,,,,@user @user wow really mongoloid hahahahaha can't stop laughing. jesus christ. ebt available 1800s?
 3972,en_dataset,0,,,,,,,0.0,@user one u stupid retard
@@ -4007,7 +4007,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4006,en_dataset,0,,,,,,,,bull dyke beating hot lezzie fems down. @url
 4007,en_dataset,0,,,,,,,1.0,imagine given birth nigger @url
 4008,en_dataset,0,,,,,,,,attention: shithole countries coming nice
-4009,en_dataset,0,1.0,,,,,,,take shit face ya daft muzzie twat!! @url
+4009,en_dataset,0,1.0,,,,,,1.0,take shit face ya daft muzzie twat!! @url
 4010,en_dataset,0,0.0,,,,,,0.0,cant possibly imagine stepping 6 plate bench lmfao. retarded. chest would explode. 
 4011,en_dataset,0,0.0,,,,,,1.0,here's example lowlife scumbags us who's trying spoil taliban name.nthis retarded fanatic torturer cl @url
 4012,en_dataset,0,,,,,,,1.0,@user @user @user @user girl thought u meant ching chong chun-li bitch...
@@ -4054,7 +4054,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4053,en_dataset,0,,,,,,,,@user horse racing faggot
 4054,en_dataset,0,,,,,,,,note : talking refugees
 4055,en_dataset,0,,,,,,,,look face. rich happy. white trump's racist shithole country. that's @url
-4056,en_dataset,0,0.0,,,,,,,he's acting brave like administration electrocute faggot ass smithereens  @url
+4056,en_dataset,0,0.0,,,,,,1.0,he's acting brave like administration electrocute faggot ass smithereens  @url
 4057,en_dataset,0,,,,,,,,@user @user @user @user runaway spic. ohhh im sorrry.
 4058,en_dataset,0,1.0,,,,,,1.0,@user @user im trying scroll tl fucking dyke
 4059,en_dataset,0,0.0,,,,,,,pepper soup overrated  sugarcane underrated 
@@ -4076,7 +4076,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4075,en_dataset,0,0.0,,,,,,,worship.....but worshipnnspecial retard one  @url
 4076,en_dataset,0,,,,,,,,clearly he's retarded @url
 4077,en_dataset,0,,,,,,,,@user @user someones get negro wake call.
-4078,en_dataset,0,0.0,,,,,,,marko cunt.nntell something new. @url
+4078,en_dataset,0,0.0,,,,,,1.0,marko cunt.nntell something new. @url
 4079,en_dataset,0,1.0,,,,,,,eating sleep dinner tonight nigger @url
 4080,en_dataset,0,0.0,,,,,,,@user @user @user @user ching chong eat dog
 4081,en_dataset,0,,,,,,,,@user @user cameroun condemned shithole country ruled vegetables intellectually defunct minds.
@@ -4085,7 +4085,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4084,en_dataset,0,,,,,,,,bro friend retarded af  #cameltoe @url
 4085,en_dataset,0,0.0,,,,,,,border patrol agents discover nearly 200 illegal immigrants remote arizona desert @url
 4086,en_dataset,0,,,,,,,,indigenous mongol people majority nepal @url
-4087,en_dataset,0,,,,,,,,@user bet something hamcat...
+4087,en_dataset,0,,,,,,,0.0,@user bet something hamcat...
 4088,en_dataset,1,1.0,,,,,,,unfollow horrible cunt @url
 4089,en_dataset,0,0.0,,,,,,,hi everyone letting know okay white #auspol
 4090,en_dataset,0,,,,,,,,big spic energy. @url
@@ -4162,7 +4162,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4161,en_dataset,0,,,,,,,,@user scarlett johansson walked called faggot walked away. called personal cell @url
 4162,en_dataset,0,0.0,,,,,,,@user tbh yall acting like done put ching chong dang tweet. know @url
 4163,en_dataset,0,,,,,,,,@user haha faggot balls
-4164,en_dataset,0,,,,,,,,@user @user shes fkn retard
+4164,en_dataset,0,,,,,,,1.0,@user @user shes fkn retard
 4165,en_dataset,1,0.0,,,,,,,@user devious dangerous narcissistic autocratic slimy little twat.
 4166,en_dataset,0,,,,,,,,niggas mad cause u retarded
 4167,en_dataset,0,0.0,,,,,,,y'all niggas retarded lmao @url
@@ -4348,7 +4348,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4347,en_dataset,0,0.0,,,,,,1.0,@user gee criticism armed guards church talk #shithole countries? #murica @url
 4348,en_dataset,0,,,,,,,,examples verbal abuse took last night:nnyou fucking freak show faggot!nnyou're ugly - face g @url
 4349,en_dataset,0,0.0,,,,,,,@user @user theres literally proof retard
-4350,en_dataset,0,,,,,,,,@user koke call cris faggot
+4350,en_dataset,0,,,,,,,1.0,@user koke call cris faggot
 4351,en_dataset,1,,,,,,,,dude really faggot @url
 4352,en_dataset,0,,,,,,,0.0,@user fuck retard
 4353,en_dataset,0,0.0,,,,,,,tv acting retarded 
@@ -4539,7 +4539,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4538,en_dataset,1,,,,,,,,fuck that. feminazis outraged ...bring say! @url
 4539,en_dataset,0,0.0,,,,,,,@user @user @user @user @user guess raghead.....trump president 
 4540,en_dataset,0,0.0,,,,,,,idk stop i'm eating. always ready throw finally stop smfh. think i'm retarded.
-4541,en_dataset,1,,,,,,,,al throw geezer party get cunt dog bone tell two words: springburn soundsystem x @url
+4541,en_dataset,1,,,,,,,1.0,al throw geezer party get cunt dog bone tell two words: springburn soundsystem x @url
 4542,en_dataset,0,,,,,,,,@user @user @user type behavior common elections 3rd-world shithole countries.
 4543,en_dataset,0,0.0,,,,,,,/:/ everyone report @user . cunt role playing child. fucked prison!
 4544,en_dataset,0,,,,,,,,face tattooed. bold move alpha cunt bold move n #findomme #femdomme #tattoofetish n@user @user @url
@@ -4659,7 +4659,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4658,en_dataset,0,,,,,,,,@user went full retard never go full retard. @url
 4659,en_dataset,0,0.0,,,,,,1.0,anime character asian look asiannnthat's almost every anime character retard. @url
 4660,en_dataset,0,0.0,,,,,,1.0,@user ok faggot
-4661,en_dataset,0,0.0,,,,,,,@user see negro ye still halfway sunken place smh
+4661,en_dataset,0,0.0,,,,,,1.0,@user see negro ye still halfway sunken place smh
 4662,en_dataset,0,1.0,,,,,,,ever call us we'll come. never taking account little cunt are. we'll save getting @url
 4663,en_dataset,0,0.0,,,,,,1.0,hes actually lowkey always nigger @url
 4664,en_dataset,0,,,,,,,,quit asking dumb fucking questions sales.nnif going ask worlds basic fucking retard @url
@@ -4719,7 +4719,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4718,en_dataset,0,,,,,,,1.0,@user u start taking twitter seriously really start becoming faggot tib.
 4719,en_dataset,0,,,,,,,,@user funny coming chinaman comes nation chinese dictator mao killed oppress @url
 4720,en_dataset,0,,,,,,,,nigger jumped @url
-4721,en_dataset,0,0.0,,,,,,,shithole country. @url
+4721,en_dataset,0,0.0,,,,,,0.0,shithole country. @url
 4722,en_dataset,1,0.0,,,,,,1.0,god he's fucking twat. @url
 4723,en_dataset,0,0.0,,,,,,1.0,@user nice see supporting terrorist. even funnier claim every leftist never denounces @url
 4724,en_dataset,1,,,,,,,,@user @user nah im feminazi .... dont think men toxic trash
@@ -4729,9 +4729,9 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4728,en_dataset,1,1.0,,,,,,,@user @user literally asked clapped cunt.
 4729,en_dataset,0,,,,,,,,brain morning: potato potato ching chong tomato
 4730,en_dataset,0,,,,,,,,hello justin bieber-i say ching chong nippon sometimes
-4731,en_dataset,0,0.0,,,,,,,@user harry im moving london tuesday 25th welcome go back country around day @url
+4731,en_dataset,0,0.0,,,,,,0.0,@user harry im moving london tuesday 25th welcome go back country around day @url
 4732,en_dataset,0,1.0,,,,,,,lmaoooo see go racist . typical nigger @url
-4733,en_dataset,0,0.0,,,,,,,added video @user playlist @url kid goes full retard drops coin sewer 
+4733,en_dataset,0,0.0,,,,,,1.0,added video @user playlist @url kid goes full retard drops coin sewer 
 4734,en_dataset,1,0.0,,,,,,,he's cunt! #lufc @url
 4735,en_dataset,0,1.0,,,,,,,@user thoughts prayers lol got fired house negro position
 4736,en_dataset,1,,,,,,,,yall gonna realise i'm like massive twat one day
@@ -4742,7 +4742,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4741,en_dataset,0,,,,,,,,@user that's retarded honest.
 4742,en_dataset,0,,,,,,,,@user borin moodly auld cunt
 4743,en_dataset,0,,,,,,,,@user imagine retarded
-4744,en_dataset,0,1.0,,,,,,,remember xbox live 2012 getting called spic cause spoke spanish 2 seconds y'all @url
+4744,en_dataset,0,1.0,,,,,,1.0,remember xbox live 2012 getting called spic cause spoke spanish 2 seconds y'all @url
 4745,en_dataset,0,0.0,,,,,,,swear gets cold mfs want act retarded
 4746,en_dataset,0,0.0,,,,,,,@user idiot tory soup taker denial. go research irish regiments .
 4747,en_dataset,1,0.0,,,,,,,i'll fucking rip eyes motherfucker i'll bury alive little shit son bitch cunt whore al @url
@@ -4894,12 +4894,12 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4893,en_dataset,0,0.0,,,,,,,@user fuck u spic
 4894,en_dataset,0,0.0,,,,,,1.0,met cutest dyke towson can't remember gave number
 4895,en_dataset,0,0.0,,,,,,,also youre trying blatantly racist least original like im sick hearing ling ling ching chong @url
-4896,en_dataset,1,,,,,,,,@user stockard channing fabulous cunt island right?? saw practical magic first time @url
+4896,en_dataset,1,,,,,,,1.0,@user stockard channing fabulous cunt island right?? saw practical magic first time @url
 4897,en_dataset,0,0.0,,,,,,,halloween party shit thing tonight. going comment think retarded @url
 4898,en_dataset,0,0.0,,,,,,,imagine going cemetery visit loved one u see retard taking pictures grave @url
 4899,en_dataset,0,,,,,,,,@user i'd ain't spic i'm pope
 4900,en_dataset,0,,,,,,,,betsy devos hinders shithole countries!
-4901,en_dataset,0,,,,,,,,@user ouch head hurts watching retard
+4901,en_dataset,0,,,,,,,0.0,@user ouch head hurts watching retard
 4902,en_dataset,0,0.0,,,,,,,@user lool obviously heard australia &amp; canada first-generation immigrants become mps @url
 4903,en_dataset,0,,,,,,,1.0,@user @user fuckoff ching chong
 4904,en_dataset,0,1.0,,,,,,,@user nah b dont fuck ching chong ling long phones
@@ -4915,7 +4915,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4914,en_dataset,1,0.0,,,,,,,19-y-o waitress tells story arrest @user assaulting dope bus insisted using word 'faggot.' 1s @url
 4915,en_dataset,0,,,,,,,0.0,think might shithole country. disgusted horrible events synagogue.
 4916,en_dataset,0,,,,,,,,second time get used clickbaitncongrats @user fucking retard @url
-4917,en_dataset,0,,,,,,,,@user sensitivity whats going ruin country. got called wetback spic im damn c @url
+4917,en_dataset,0,,,,,,,1.0,@user sensitivity whats going ruin country. got called wetback spic im damn c @url
 4918,en_dataset,0,0.0,,,,,,1.0,@user @user @user @user absolutely! like guns like libs like immigrants... undocumented!!
 4919,en_dataset,0,,,,,,,,photo called dyke spic spat face broke arm @url
 4920,en_dataset,0,1.0,,,,,,1.0,maddenbishop biggest faggot ever
@@ -4988,7 +4988,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 4987,en_dataset,0,,,,,,,,@user @user @user @user @user @user listen chump.. tell non zionist je @url
 4988,en_dataset,0,0.0,,,,,,,@user western civilization friendly accept it. west tried go shithole countries would genocided
 4989,en_dataset,0,0.0,,,,,,,keep mind im negro open mind come ah screen door
-4990,en_dataset,0,0.0,,,,,,,terrorist leftist
+4990,en_dataset,0,0.0,,,,,,0.0,terrorist leftist
 4991,en_dataset,0,1.0,,,,,,,werent ravens wouldve quit watching nigger felon league years ago
 4992,en_dataset,0,,,,,,,,@user @user saw bunch screenshots today's shooter's gab. hates trump hates jews. leftist @url
 4993,en_dataset,0,0.0,,,,,,,@user okay white okay.
@@ -5015,7 +5015,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5014,en_dataset,0,0.0,,,,,,,@user @user @user @user omfg. know apparently. retard thr @url
 5015,en_dataset,0,,,,,,,,@user admits went far faggot line (even though agree never @url
 5016,en_dataset,0,,,,,,,,suck dick gundy. mullet faggot bitch
-5017,en_dataset,0,,,,,,,,who's gonna save shithole country trump leaves office?nkanye n~ktsadb
+5017,en_dataset,0,,,,,,,1.0,who's gonna save shithole country trump leaves office?nkanye n~ktsadb
 5018,en_dataset,0,0.0,,,,,,1.0,yup. got it. wont fleeing shithole countries ruled evil people nope it'll trump evil. trump w @url
 5019,en_dataset,0,,,,,,,,@user @user @user gone full retard 1. added dab floss september floss
 5020,en_dataset,0,,,,,,,0.0,entire van spic span. colors stickers vibrant. curling edges. hmmm... @url
@@ -5040,13 +5040,13 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5039,en_dataset,0,,,,,,,,old dirty jew bitch absolutely protecting entire jewed structure filth.
 5040,en_dataset,0,,,,,,,1.0,@user @user @user point know words hurt people. retard @url
 5041,en_dataset,0,0.0,,,,,,,country antisemitic shithole
-5042,en_dataset,0,0.0,,,,,,,@user knew ass racist u wetback go back country kinda face
+5042,en_dataset,0,0.0,,,,,,1.0,@user knew ass racist u wetback go back country kinda face
 5043,en_dataset,0,0.0,,,,,,,listen bigheaded headass dusty lookin lil fuckin cuckass libtard piece shit eating mongoloid troglodyte bitch
 5044,en_dataset,0,,,,,,,,@user @user @user one = thinks faggot getting abortion single @url
 5045,en_dataset,1,,,,,,,1.0,getting twatnneverybody wants thatn#goirish #pasttenseoftweet
 5046,en_dataset,0,,,,,,,,intention lookin' ass mongoloid #ass #bot
 5047,en_dataset,1,,,,,,,,key getting married tricking girl within first month realizes im quirky unique im retarded
-5048,en_dataset,0,,,,,,,,fine lightskin dyke function &amp; told fine asf &amp; bag  fuck!shit!bitch!
+5048,en_dataset,0,,,,,,,1.0,fine lightskin dyke function &amp; told fine asf &amp; bag  fuck!shit!bitch!
 5049,en_dataset,0,,,,,,,,@user he's sort cunt mate
 5050,en_dataset,0,0.0,,,,,,,@user nigger need house @url
 5051,en_dataset,0,0.0,,,,,,1.0,@user @user palace seizedntrump admn mustnfire leftist nwh chief staffnjohn kerrynhh @url
@@ -5061,7 +5061,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5060,en_dataset,0,0.0,,,,,,,@user fuck cunt
 5061,en_dataset,0,0.0,,,,,,,i'm fucking screaming sis actually changed name nigger quarter
 5062,en_dataset,0,0.0,,,,,,,@user even shadilay active lol faggot
-5063,en_dataset,0,0.0,,,,,,,@user susano'o obito fucking faggot
+5063,en_dataset,0,0.0,,,,,,1.0,@user susano'o obito fucking faggot
 5064,en_dataset,0,,,,,,,1.0,@user signs retard person
 5065,en_dataset,0,,,,,,,1.0,@user shut farmer. clearly retarded
 5066,en_dataset,0,,,,,,,,want get banned st a's calling someone faggot
@@ -5111,7 +5111,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5110,en_dataset,0,1.0,,,,,,1.0,can't deal retarded ass bitches
 5111,en_dataset,0,,,,,,,,@user leave mongoloid manager boston please.
 5112,en_dataset,0,0.0,,,,,,,@user @user sound like naive retard stanning utopia never exist.
-5113,en_dataset,0,0.0,,,,,,,@user @user retarded thing anyone said election process . thi @url
+5113,en_dataset,0,0.0,,,,,,0.0,@user @user retarded thing anyone said election process . thi @url
 5114,en_dataset,0,,,,,,,,ingenious portmanteau liberal' retard' martha.nn-george washington 1776
 5115,en_dataset,0,,,,,,,,drug prohibition made chicago shithole made usa shithole country. forcing law @url
 5116,en_dataset,0,0.0,,,,,,1.0,@user @user @user many illegal aliens move home crystal?
@@ -5210,9 +5210,9 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5209,en_dataset,0,0.0,,,,,,,lol gone full retard take much. fellow hollywierdos. @url
 5210,en_dataset,0,1.0,,,,,,,@user argument strong let white people call wetback spic consequen @url
 5211,en_dataset,0,0.0,,,,,,0.0,word nigger treated worst word could ever say.
-5212,en_dataset,0,,,,,,,,@user go back watch every couple months see racist ghost calls friend chinaman
+5212,en_dataset,0,,,,,,,1.0,@user go back watch every couple months see racist ghost calls friend chinaman
 5213,en_dataset,0,0.0,,,,,,,haha @user gone full #retard 
-5214,en_dataset,0,0.0,,,,,,,@user @user raghead problem england. hows terrorist attacks?
+5214,en_dataset,0,0.0,,,,,,1.0,@user @user raghead problem england. hows terrorist attacks?
 5215,en_dataset,0,0.0,,,,,,,im negro open mind got screen door
 5216,en_dataset,0,0.0,,,,,,,dick looks retarded literally  @url
 5217,en_dataset,0,,,,,,,,@user @user @user @user @user @user @user @user thank
@@ -5241,7 +5241,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5240,en_dataset,0,0.0,,,,,,,@user @user @user bad - rise shithole countries tak @url
 5241,en_dataset,0,0.0,,,,,,,@user misread tweet logic dalai lama's logic receive refugees treat well educate th @url
 5242,en_dataset,1,0.0,,,,,,,@user thieving twat stole phone im using phone 10 years ago can't @url
-5243,en_dataset,0,0.0,,,,,,,@user i'll watch get home spic i'm school rn.
+5243,en_dataset,0,0.0,,,,,,1.0,@user i'll watch get home spic i'm school rn.
 5244,en_dataset,0,0.0,,,,,,,@user @user @user wing wong ching chong
 5245,en_dataset,0,,,,,,,1.0,sorry speak ping pong ching chong sushi chong
 5246,en_dataset,0,,,,,,,,odee's performance better hands down. swings retard  damn! he's monster performern#smtm777 @url
@@ -5258,7 +5258,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5257,en_dataset,1,,,,,,,,got fucked think they're paying though. way end great fucking night stupid cunt shit.
 5258,en_dataset,0,,,,,,,,@user zorry spic espanilsh
 5259,en_dataset,0,,,,,,,,@user whipped faggot
-5260,en_dataset,0,,,,,,,,spic y'all.....the first time heard 13 like umm what? say speak? lol som @url
+5260,en_dataset,0,,,,,,,0.0,spic y'all.....the first time heard 13 like umm what? say speak? lol som @url
 5261,en_dataset,0,1.0,,,,,,,@user nigga look like dyke me.
 5262,en_dataset,0,0.0,,,,,,,@user i'd say could come live shithole country 
 5263,en_dataset,0,0.0,,,,,,,annoying twat face? k thanks.
@@ -5335,7 +5335,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5334,en_dataset,0,,,,,,,,playing lol jk im faggot
 5335,en_dataset,0,0.0,,,,,,0.0,someone tell people get making lies people ? fuckin mongy ask
 5336,en_dataset,1,0.0,,,,,,,@user cunt 28 years old hit meth mid match sounds like perfect life aye
-5337,en_dataset,0,,,,,,,,@user i'm retarded
+5337,en_dataset,0,,,,,,,0.0,@user i'm retarded
 5338,en_dataset,0,0.0,,,,,,1.0,@user retard strength
 5339,en_dataset,0,0.0,,,,,,,@user long retard 
 5340,en_dataset,0,,,,,,,,@user @user @user also kennewick man washington state. time period. definitely mongoloid.
@@ -5387,7 +5387,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5386,en_dataset,0,0.0,,,,,,0.0,i'm actually twat
 5387,en_dataset,0,0.0,,,,,,0.0,fucking nigger asshole hotrodnigga.
 5388,en_dataset,0,,,,,,,,happy happy birth death  sa aking ka forever jowa spic girl &amp; one @user  gotchu alw @url
-5389,en_dataset,0,,,,,,,,pelea entre latinos... que espectu00e1culo :/ want people 'shithole countries' coming here? @url
+5389,en_dataset,0,,,,,,,1.0,pelea entre latinos... que espectu00e1culo :/ want people 'shithole countries' coming here? @url
 5390,en_dataset,1,,,,,,,,@user twat. @user help friend ended hospital last night?
 5391,en_dataset,0,,,,,,,,@user jesus christ i'm pretty sure he's retarded.
 5392,en_dataset,0,,,,,,,,@user @user @user call nigerians african countries shithole? u guys se @url
@@ -5420,7 +5420,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5419,en_dataset,0,,,,,,,,fuentes retard lol made #yiannibol gang
 5420,en_dataset,1,0.0,,,,,,,@user fucking stupid little twat hole
 5421,en_dataset,1,1.0,,,,,,,look absolute doos! trophy hunter man cunt. understand hunting foo @url
-5422,en_dataset,0,,,,,,,,@user part script? wants feminazi there! going march dc thursday w/ @url
+5422,en_dataset,0,,,,,,,1.0,@user part script? wants feminazi there! going march dc thursday w/ @url
 5423,en_dataset,0,0.0,,,,,,,cancel shithole countries give trump
 5424,en_dataset,0,,,,,,,,stick even mongy ones back cos they're united players i'm done sanchez i'm @url
 5425,en_dataset,0,,,,,,,,@user beefing dyke!!!
@@ -5439,7 +5439,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5438,en_dataset,0,,,,,,,,million one fucking laws average joe.nnbut million fucking loopholes silver spoon faggot @url
 5439,en_dataset,0,0.0,,,,,,,@user far faggot@user
 5440,en_dataset,1,,,,,,,,@user learn something pro uneducated twat! @url
-5441,en_dataset,0,,,,,,,1,@user first i've ever heard this. complete twat is...
+5441,en_dataset,0,,,,,,,1.0,@user first i've ever heard this. complete twat is...
 5442,en_dataset,0,0.0,,,,,,,honored part delegation fabulous workshop @user share story incre @url
 5443,en_dataset,1,,,,,,,,right twat?
 5444,en_dataset,0,,,,,,,0.0,@user twat offense could maybe hit 2 sometime soon
@@ -5496,7 +5496,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5495,en_dataset,0,,,,,,,,nothing stirs emotions quite like reading retarded replies trump tweets
 5496,en_dataset,0,,,,,,,,cleaning found new eraser 2 unsharpened mongol pencils hayyy nagbakal pa ko nmat
 5497,en_dataset,1,0.0,,,,,,,@user he's absolute twat
-5498,en_dataset,0,,,,,,,,@user pourquoi la peur des migrants serait sans raison alors que le nombre de crimes commis par ceux-ci est en augmentation ?
+5498,en_dataset,0,,,,,,,1.0,@user pourquoi la peur des migrants serait sans raison alors que le nombre de crimes commis par ceux-ci est en augmentation ?
 5499,en_dataset,0,,,,,,,,like many grew dick van dyke reference point cockney accent
 5500,en_dataset,1,,,,,,,,trump supporters sending mail bombs &amp; shooting synagogues can't call woman cunt uncivilized #pittsburgh
 5501,en_dataset,0,,,,,,,,lukewarm ass negro
@@ -5510,7 +5510,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5509,en_dataset,0,,,,,,,,lmao fucking retarded lazy
 5510,en_dataset,0,0.0,,,,,,0.0,feel twat
 5511,en_dataset,0,0.0,,,,,,,@user yeah twat tweet everything.
-5512,en_dataset,0,1.0,,,,,,,crush everyone say ignorant bs. second cute boy goes ching chong trump @url
+5512,en_dataset,0,1.0,,,,,,1.0,crush everyone say ignorant bs. second cute boy goes ching chong trump @url
 5513,en_dataset,0,0.0,,,,,,,@user white nationalist say heritage okay white difference meaning them.
 5514,en_dataset,0,1.0,,,,,,1.0,sister literally said james charles faggot.nn...nnwho talking
 5515,en_dataset,0,,,,,,,,anyone else make wah ching ching chung choo ching chong noises try copy kung fu moves?
@@ -5564,7 +5564,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5563,en_dataset,0,0.0,,,,,,,dude wayne said keep mind im negro open mind got screen door @url
 5564,en_dataset,0,0.0,,,,,,,@user retard fighting court pic..
 5565,en_dataset,0,,,,,,,,@user yet administration wants curb legal immigration wanting immigrants shithole co @url
-5566,en_dataset,0,,,,,,,,@user he's booter moron. like u literally retarded? ur another toxic young kid. go vibe lil peep @url
+5566,en_dataset,0,,,,,,,1.0,@user he's booter moron. like u literally retarded? ur another toxic young kid. go vibe lil peep @url
 5567,en_dataset,0,0.0,,,,,,1.0,@user slimy maybe that's i'm spic boring? could never! boring sucks
 5568,en_dataset,0,0.0,,,,,,,omelette au fromage retard. omelette du fromage would mean made cheese. ugh!
 5569,en_dataset,0,0.0,,,,,,,shithole country human right #cameroun world must rise tell devil backout #paulbiya w @url
@@ -5775,7 +5775,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5774,en_dataset,1,,,,,,,,@user got number. sad twat are.
 5775,en_dataset,0,0.0,,,,,,1.0,@user grow retard
 5776,en_dataset,0,0.0,,,,,,,twat vagina gary! yt people wyld
-5777,en_dataset,1,0.0,,,,,,,sad cunt @url
+5777,en_dataset,1,0.0,,,,,,1.0,sad cunt @url
 5778,en_dataset,0,0.0,,,,,,0.0,@user @user @user matter raghead killed ragheads.
 5779,en_dataset,0,,,,,,,,thanks historic global warming signed law shithole countries going daca g @url
 5780,en_dataset,0,0.0,,,,,,,@user @user gonna track fucker defuse him. dont want isis members round ends. twat.
@@ -5934,7 +5934,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5933,en_dataset,0,,,,,,,,gone full retard.nyou're supposed go full retard - @user nnand ladies gentlemen l need new friends 
 5934,en_dataset,1,,,,,,,,@user can't call singing! twat would get four no's performance. got likeability. 
 5935,en_dataset,0,,,,,,,,need cool cowhide coat extraordinary event dwayne johnson baywatch lifeguard jacket spic @url
-5936,en_dataset,0,0.0,,,,,,,@user @user ching chong bing bong eat dog
+5936,en_dataset,0,0.0,,,,,,1.0,@user @user ching chong bing bong eat dog
 5937,en_dataset,0,,,,,,,,@user well china get wrecked mongols japan repel mongol assault (twice) china @url
 5938,en_dataset,0,0.0,,,,,,0.0,retarded ur gonna get cheese touch
 5939,en_dataset,0,0.0,,,,,,,way people stop massacre shooting future getting rid trump retard cult-follo @url
@@ -5977,7 +5977,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 5976,en_dataset,0,,,,,,,,@user governments water 3rd world shithole countries. regulation based solution. j @url
 5977,en_dataset,0,0.0,,,,,,,thanks historic taco bowls signed law crooked hillary going shithole countrie @url
 5978,en_dataset,0,1.0,,,,,,,@user crap? need protest borders! can't let ppl shithole countries ruin culture
-5979,en_dataset,1,,,,,,,,.@user total idiots. accusers feminazi never trumpers admit dr @url
+5979,en_dataset,1,,,,,,,1.0,.@user total idiots. accusers feminazi never trumpers admit dr @url
 5980,en_dataset,0,1.0,,,,,,,there's better word disrespect describe jensen especially plays liss. retarded.
 5981,en_dataset,0,0.0,,,,,,,lowkey thought power box pc pc itselfni retarded
 5982,en_dataset,0,0.0,,,,,,,5 best tv seriesnni watch lot tv. probably watamote. care i'm faggot shit good.
@@ -6019,7 +6019,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6018,en_dataset,1,,,,,,,,another silly cunt. twitter full @url
 6019,en_dataset,0,0.0,,,,,,,@user think retarded mutuals possibly never
 6020,en_dataset,0,,,,,,,,found 10 envelopes say ching chong
-6021,en_dataset,0,0.0,,,,,,,can't believe ching chong 10 points!
+6021,en_dataset,0,0.0,,,,,,1.0,can't believe ching chong 10 points!
 6022,en_dataset,0,,,,,,,,cant wait go bulgaria soon get called nigger someones dad
 6023,en_dataset,0,0.0,,,,,,,intellectual terrorist
 6024,en_dataset,0,,,,,,,,okay white. @url
@@ -6059,7 +6059,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6058,en_dataset,0,,,,,,,,usa morph heartless shithole country trump administration?n#votedemocrat n#votedem @url
 6059,en_dataset,0,0.0,,,,,,,fuck spic mean? offensive?
 6060,en_dataset,0,0.0,,,,,,,@user sez retard beehive size apartment
-6061,en_dataset,0,0.0,,,,,,,@user could point come shithole countries know feel phrase too.
+6061,en_dataset,0,0.0,,,,,,1.0,@user could point come shithole countries know feel phrase too.
 6062,en_dataset,0,0.0,,,,,,,@user tweet ching chong
 6063,en_dataset,1,0.0,,,,,,1.0,@user leader free world anymore. twat. (expletives suppressed.)
 6064,en_dataset,0,,,,,,,,@user @user leaving shithole countries turn europe continent full shithole countries.ngo home!!!
@@ -6125,7 +6125,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6124,en_dataset_with_stop_words,1,1.0,,,,,,,@user feminazi detected
 6125,en_dataset_with_stop_words,0,,,,,,,1.0,@user So many dead and illegal aliens will vote blue in November dems aren’t worried
 6126,en_dataset_with_stop_words,0,0.0,,,,,,,@user u are my dad fucking retard
-6127,en_dataset_with_stop_words,0,0.0,,,,,,,&gt;If they aren't people and don't truly matter why does even one being retarded hold so much importance\n\nThey don't\u2026 @URL
+6127,en_dataset_with_stop_words,0,0.0,,,,,,0.0,&gt;If they aren't people and don't truly matter why does even one being retarded hold so much importance\n\nThey don't\u2026 @URL
 6128,en_dataset_with_stop_words,0,0.0,,,,,,,I feel so retarded why cant I just do it
 6129,en_dataset_with_stop_words,0,,,,,,,,My baby daddy a retarded bitch
 6130,en_dataset_with_stop_words,0,,,,,,,1.0,@user it's not fair nigger!
@@ -6142,7 +6142,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6141,en_dataset_with_stop_words,0,,,,,,,,So because I\u2019m not looking to be in a relationship means I\u2019m trying hoe around ? \ud83d\ude02\ud83d\ude02\ud83d\ude02 the retard juice is strong
 6142,en_dataset_with_stop_words,1,,,,,,,,carrying retard boy @user @URL
 6143,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user Babe Ruth was a dirty jew
-6144,en_dataset_with_stop_words,0,,,,,,,,When people get offended by insults and jokes with words like retarded autistic faggot etc. @URL
+6144,en_dataset_with_stop_words,0,,,,,,,1.0,When people get offended by insults and jokes with words like retarded autistic faggot etc. @URL
 6145,en_dataset_with_stop_words,0,,,,,,,,Keep in mind.. that just because you call me a faggot in Spanish doesn\u2019t mean I can\u2019t still understand you.
 6146,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user Pretty much hes a little dick faggot that needs his ass beat for a reality check that he ain't shit
 6147,en_dataset_with_stop_words,0,,,,,,,0.0,@user A retard.
@@ -6187,7 +6187,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6186,en_dataset_with_stop_words,0,0.0,,,,,,,it truly fucking BAFFLES me when people genuinely fucking think that saying \u201cching chong ling lang ding\u201d is actuall\u2026 @URL
 6187,en_dataset_with_stop_words,0,,,,,,,,@user Saying raghead and goat in one tweet is insta-follow by my standards\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude1c
 6188,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user Shut up retard \ud83d\ude02
-6189,en_dataset_with_stop_words,1,1.0,,,,,,,men are fucking retarded
+6189,en_dataset_with_stop_words,1,1.0,,,,,,1.0,men are fucking retarded
 6190,en_dataset_with_stop_words,0,,,,,,,,Learn how to speak ching chong — um why @URL
 6191,en_dataset_with_stop_words,1,,,,,,,,@user @user @user @user Hildebrand is a twat pure and simple.
 6192,en_dataset_with_stop_words,0,,,,,,,1.0,@user @user Will you be explaining why you defend illegal aliens over citizens? @URL
@@ -6285,7 +6285,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6284,en_dataset_with_stop_words,0,,,,,,,,This series is even better knowing Machado likes to use \faggot\ as an insult.
 6285,en_dataset_with_stop_words,0,,,,,,,1.0,@user I would cry if people called me fat I got called faggot and it was annoying but it was whatever but omg if\u2026 @URL
 6286,en_dataset_with_stop_words,0,,,,,,,,This is the sort of thing that happens in a shithole country. @URL
-6287,en_dataset_with_stop_words,1,0.0,,,,,,,For your information @user you absolute twat the reason SJWs told me I deserve to get \gaybashed\ was ju\u2026 @URL
+6287,en_dataset_with_stop_words,1,0.0,,,,,,1.0,For your information @user you absolute twat the reason SJWs told me I deserve to get \gaybashed\ was ju\u2026 @URL
 6288,en_dataset_with_stop_words,0,0.0,,,,,,,@user Fatlus mainstream now nigger
 6289,en_dataset_with_stop_words,1,1.0,,,,,,1.0,@user @user @user @user @user @user Who is a men hating feminazi? I… @URL
 6290,en_dataset_with_stop_words,0,0.0,,,,,,,LeBron teammates become retarded in big situations
@@ -6300,7 +6300,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6299,en_dataset_with_stop_words,0,0.0,,,,,,,I'm forced to deal with retarded people everyday.
 6300,en_dataset_with_stop_words,0,,,,,,,,@user It\u2019s better than being a faggot
 6301,en_dataset_with_stop_words,0,,,,,,,1.0,Helped bring alc to a AE pi party and some faggot was trying to kick me out. I\u2019ve been here for less than a min. Fa\u2026 @URL
-6302,en_dataset_with_stop_words,0,0.0,,,,,,,@user You turn around @user and go back to where you come from and give the Natives back what\u2026 @URL
+6302,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user You turn around @user and go back to where you come from and give the Natives back what\u2026 @URL
 6303,en_dataset_with_stop_words,0,,,,,,,,@user Just another mongoloid on Twitter.
 6304,en_dataset_with_stop_words,1,1.0,,,,,,1.0,@user @user @user Hahaha fucking cunt... I don't know what's worse. Joking about a terribl\u2026 @URL
 6305,en_dataset_with_stop_words,0,,,,,,,,white gringxs be like \u201chow is you saying \u201cthe office\u201d is bad any better than me calling you a spic :\\\u201d
@@ -6406,7 +6406,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6405,en_dataset_with_stop_words,0,,,,,,,,@user Did you see that even the retard Trump tweeted how stupid it was for Roberts to take out Hill! The onl\u2026 @URL
 6406,en_dataset_with_stop_words,1,,,,,,,1.0,Like that conspiracy theorist alt-right terrorist cunt gives a fuck about The Palestinians.
 6407,en_dataset_with_stop_words,0,,,,,,,,Your sons a fucking mongy cunt ya ming @URL
-6408,en_dataset_with_stop_words,0,1.0,,,,,,,@user humour of a female and or retard same same i get you tho
+6408,en_dataset_with_stop_words,0,1.0,,,,,,1.0,@user humour of a female and or retard same same i get you tho
 6409,en_dataset_with_stop_words,0,,,,,,,,@user @user @user Another day more Americans killed by illegal aliens. #BuildTheWall #MandateeVerify
 6410,en_dataset_with_stop_words,0,1.0,,,,,,,@user Real spic move
 6411,en_dataset_with_stop_words,0,,,,,,,,@user I've asked you if you secure the border and protect US Citizens over illegal aliens. You never ans… @URL
@@ -6434,7 +6434,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6433,en_dataset_with_stop_words,1,,,,,,,,Some cunt smashed my phone out my hand last night \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f\ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f
 6434,en_dataset_with_stop_words,0,0.0,,,,,,,@user what a fucking faggot!
 6435,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user Now yes this politically motivated terrorist is white.... and leftist
-6436,en_dataset_with_stop_words,0,0.0,,,,,,,fuck you i'll listen to africa by toto if i want
+6436,en_dataset_with_stop_words,0,0.0,,,,,,0.0,fuck you i'll listen to africa by toto if i want
 6437,en_dataset_with_stop_words,0,1.0,,,,,,,he ratted only thing worse then a faggot
 6438,en_dataset_with_stop_words,0,0.0,,,,,,,oliver's got a full on camel toe the poor fucker
 6439,en_dataset_with_stop_words,1,1.0,,,,,,,Ya no different than my cracker daddy\nCalled that cunt a pedophile \nHe said \You're over 18\\nDie slow ya fuckin toe rags
@@ -6628,7 +6628,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6627,en_dataset_with_stop_words,0,1.0,,,,,,,The chinamen's version of bigfoot is an exiled albino mongoloid with club feet and big hairy thumbs whom roams th\u2026 @URL
 6628,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user @user @user libtarded faggot
 6629,en_dataset_with_stop_words,0,,,,,,,,@user @user @user @user I didn't say retard did I?
-6630,en_dataset_with_stop_words,1,,,,,,,,@user Oh No! A leftist feminazi threatens not to vote for a Republican! Just spitballing here but I'm pre… @URL
+6630,en_dataset_with_stop_words,1,,,,,,,1.0,@user Oh No! A leftist feminazi threatens not to vote for a Republican! Just spitballing here but I'm pre… @URL
 6631,en_dataset_with_stop_words,0,0.0,,,,,,,are people still using ching chong as an insult to asians lmfao y'all look stupid
 6632,en_dataset_with_stop_words,0,,,,,,,,@user \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\nYou must always think of your country the same way I do about the Swedish shithole.
 6633,en_dataset_with_stop_words,0,0.0,,,,,,,Free shit? Explain. @user wait you said you happily let racist white people call you a wetback and a spic. T\u2026 @URL
@@ -6647,7 +6647,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6646,en_dataset_with_stop_words,0,,,,,,,,I can't wait to boo the theme tune later lads it's what the big European nights are all about! If you're mongy as fuck that is
 6647,en_dataset_with_stop_words,0,0.0,,,,,,,@user True. Christians may be our retarded cousins but still in the family nevertheless.
 6648,en_dataset_with_stop_words,0,0.0,,,,,,,@user Wrong game retard
-6649,en_dataset_with_stop_words,0,0.0,,,,,,,@user That\u2019d be a good one if we went to same school mongy\ud83d\ude02\ud83d\ude02\ud83d\ude02
+6649,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user That\u2019d be a good one if we went to same school mongy\ud83d\ude02\ud83d\ude02\ud83d\ude02
 6650,en_dataset_with_stop_words,0,,,,,,,1.0,@user \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude2b boy you bout retarded
 6651,en_dataset_with_stop_words,0,,,,,,,,Fucking hell some of the monsters on Boro Fan TV are frightening. Deffo something in the water up there inbred smoggy mongy wankers
 6652,en_dataset_with_stop_words,0,,,,,,,,@user @user @user Same day as mongy mels . Has he told you what the derby way is yet \ud83d\ude4a\ud83e\udd23\ud83e\udd23 3 cups that\u2019s what
@@ -6709,7 +6709,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6708,en_dataset_with_stop_words,0,,,,,,,,@user The article doesn't really say anything about spic's
 6709,en_dataset_with_stop_words,0,0.0,,,,,,,I hate when people ask me to socialize like why are u so fucking rude? Have I ever asked you to stop breathing you faggot piece of shit?!
 6710,en_dataset_with_stop_words,0,1.0,,,,,,,This cunt is everything from weird to disgusting. @URL
-6711,en_dataset_with_stop_words,0,,,,,,,,You stupid motherfucker he can spot dodge because he\u2019s a special paramecia are you retarded. \n\nIf he wasn\u2019t a speci\u2026 @URL
+6711,en_dataset_with_stop_words,0,,,,,,,0.0,You stupid motherfucker he can spot dodge because he\u2019s a special paramecia are you retarded. \n\nIf he wasn\u2019t a speci\u2026 @URL
 6712,en_dataset_with_stop_words,0,0.0,,,,,,,You can\u2019t say the N word UNLESS you\u2019re black. You can\u2019t use faggot UNLESS you\u2019re gay. Minority groups are allowed t\u2026 @URL
 6713,en_dataset_with_stop_words,1,,,,,,,,@user I\u2019m tryina eat that a twat taco.
 6714,en_dataset_with_stop_words,1,1.0,,,,,,,@user Benitez is a useless cunt
@@ -6720,7 +6720,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6719,en_dataset_with_stop_words,0,,,,,,,,\Banter\ the codeword of the cunt.
 6720,en_dataset_with_stop_words,0,1.0,,,,,,,@user @user @user Where have you found the time to knock this profile up? Small Heath mongoloid. Get a job.
 6721,en_dataset_with_stop_words,1,0.0,,,,,,,@user the absolute mad cunt
-6722,en_dataset_with_stop_words,0,1.0,,,,,,,honesty though just imagine this image. Some faggot. Some dumb ass cuck talking up your girl. or at least what you\u2026 @URL
+6722,en_dataset_with_stop_words,0,1.0,,,,,,1,honesty though just imagine this image. Some faggot. Some dumb ass cuck talking up your girl. or at least what you\u2026 @URL
 6723,en_dataset_with_stop_words,0,,,,,,,1.0,But ya sure - Africa's full of 'shithole countries'... @URL
 6724,en_dataset_with_stop_words,0,1.0,,,,,,,Spasctic martial changin is acownt bercuz hes a sad raghead poof @URL
 6725,en_dataset_with_stop_words,0,,,,,,,1.0,Now remember why I don\u2019t go out in Weymouth anymore. Everyone\u2019s a cunt !
@@ -6862,7 +6862,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6861,en_dataset_with_stop_words,0,,,,,,,,@user This shit is sooo retarded
 6862,en_dataset_with_stop_words,0,,,,,,,,@user Yeah... i thought he was trying to be sincere then he just well full retard. He's gotta clarify it up on what he meant.
 6863,en_dataset_with_stop_words,0,0.0,,,,,,,Hahahaha what did that mongy Stoke fan possibly have to say @URL
-6864,en_dataset_with_stop_words,0,0.0,,,,,,,When a faggot has been drained to the point where all it can offer is 1 dollar \ud83e\udd11\ud83d\ude0f #findom #cashfag #HumanATM\u2026 @URL
+6864,en_dataset_with_stop_words,0,0.0,,,,,,1.0,When a faggot has been drained to the point where all it can offer is 1 dollar \ud83e\udd11\ud83d\ude0f #findom #cashfag #HumanATM\u2026 @URL
 6865,en_dataset_with_stop_words,0,,,,,,,,@user @user \floppy eared dog girls be like \oh my ears are falling off and in a gay retarded cancer dog\
 6866,en_dataset_with_stop_words,0,,,,,,,,@user see you retarded to
 6867,en_dataset_with_stop_words,0,,,,,,,,Hi I\u2019m mike Gundy and I\u2019m a little twat with a mullet that hasn\u2019t won shit
@@ -7059,7 +7059,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7058,en_dataset_with_stop_words,0,0.0,,,,,,,@user praise me rn (right now) libtard (liberal retard)
 7059,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user You got nothing raghead.
 7060,en_dataset_with_stop_words,0,0.0,,,,,,,@user I'm not a conspiracy theorist but I think the leftist media will make this all about a certain ver\u2026 @URL
-7061,en_dataset_with_stop_words,0,,,,,,,,Apple is fuckin retarded and so is Bank of America AND T Mobile
+7061,en_dataset_with_stop_words,0,,,,,,,0.0,Apple is fuckin retarded and so is Bank of America AND T Mobile
 7062,en_dataset_with_stop_words,0,,,,,,,1.0,@user In developing countries it is still classified as retard
 7063,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user Why would he finance a revolution in South Africa when the country is already a shithole?
 7064,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user If you are an American you are innocent until proven guilty. We let illegal immigrants go… @URL
@@ -7068,7 +7068,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7067,en_dataset_with_stop_words,0,,,,,,,,You're the spic that sent that message to my friends curious cat? \u2014 I sure did and who gon beat my ass? Your frien\u2026 @URL
 7068,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user Political violence is a common feature in \shithole countries.\ Is America now a part of the club of \shitholes\?
 7069,en_dataset_with_stop_words,0,0.0,,,,,,,@user Laura is callinf me a nigger come bully her
-7070,en_dataset_with_stop_words,0,,,,,,,,I took 4 years of these accusations seriously and i get a lot of my cold faggot
+7070,en_dataset_with_stop_words,0,,,,,,,1.0,I took 4 years of these accusations seriously and i get a lot of my cold faggot
 7071,en_dataset_with_stop_words,0,1.0,,,,,,1.0,@user You forgot to say it confuses slay Queens as to whether to stay with the nigger with Mulla or Stic… @URL
 7072,en_dataset_with_stop_words,0,,,,,,,,The opening of Can't Be Broken feels like a negro spiritual revival. This track is gritty rough yet operates in… @URL
 7073,en_dataset_with_stop_words,0,,,,,,,,Wide open layup and went retarded and passed it away @URL
@@ -7211,7 +7211,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7210,en_dataset_with_stop_words,0,0.0,,,,,,,Dave Roberts is a fucken retard
 7211,en_dataset_with_stop_words,0,0.0,,,,,,0.0,my camera quality on snap retarded before i take it its cool but when the photo actually comes out its trash \ud83d\ude2d
 7212,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Suad: it’s okay nigger we love you
-7213,en_dataset_with_stop_words,0,0.0,,,,,,,Unrelated to cum sandwiches but I just want to state how fucking dumb e-dating is and just how retarded the culture surrounding it is
+7213,en_dataset_with_stop_words,0,0.0,,,,,,0.0,Unrelated to cum sandwiches but I just want to state how fucking dumb e-dating is and just how retarded the culture surrounding it is
 7214,en_dataset_with_stop_words,0,1.0,,,,,,,@user @user @user @user @user Zip it raghead
 7215,en_dataset_with_stop_words,0,,,,,,,,Now this retarded fellow is beyond tolerance . @URL
 7216,en_dataset_with_stop_words,0,,,,,,,,@user @user @user mongol will always have a spot in any of my teams
@@ -7266,9 +7266,9 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7265,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Just went to put the cereal in the fridge and the milk in the cereal cupboard full on mongol
 7266,en_dataset_with_stop_words,0,0.0,,,,,,,@user you're retarded
 7267,en_dataset_with_stop_words,1,,,,,,,1.0,@user @user Old dyke thinks anyone cares? I know I dont. Maybe because she hasn't been invited\u2026 @URL
-7268,en_dataset_with_stop_words,0,0.0,,,,,,,Alls I said was faggot @URL
+7268,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Alls I said was faggot @URL
 7269,en_dataset_with_stop_words,0,,,,,,,,@user Could you please send links?
-7270,en_dataset_with_stop_words,0,,,,,,,,i don\u2019t like the word dyke or faggot
+7270,en_dataset_with_stop_words,0,,,,,,,1.0,i don\u2019t like the word dyke or faggot
 7271,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user @user And how\u2019s that work exactly for refugees from \u201cshithole\u201d countries\u2026 @URL
 7272,en_dataset_with_stop_words,0,1.0,,,,,,,This cunt @URL
 7273,en_dataset_with_stop_words,0,0.0,,,,,,,the us loves to ban people from entering the country huh.. even banned hiv positive immigrants from entering up til… @URL
@@ -7368,11 +7368,11 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7367,en_dataset_with_stop_words,0,,,,,,,,@user That is abysmal.\n I hope he finds a way out of one of Trump's\shithole\ countries. Oopps I forgot he loves Saudi.
 7368,en_dataset_with_stop_words,0,1.0,,,,,,,Man is a walking twat @URL
 7369,en_dataset_with_stop_words,0,,,,,,,,a group of high school boys just drove past but slowed down for the front passenger to yell \ching chong\ at me; wh\u2026 @URL
-7370,en_dataset_with_stop_words,0,0.0,,,,,,,my birth mom wondered if I were retarded that I actually used a kendama as a toy to balance ball double paddle\u2026 @URL
+7370,en_dataset_with_stop_words,0,0.0,,,,,,0.0,my birth mom wondered if I were retarded that I actually used a kendama as a toy to balance ball double paddle\u2026 @URL
 7371,en_dataset_with_stop_words,0,,,,,,,,9) Getting Visa\n10) Glad to finally get out of that shithole country don\u2019t understand why people still live in bar\u2026 @URL
 7372,en_dataset_with_stop_words,0,,,,,,,,@user every promos your team is 200% more retarded it's facts
 7373,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user Russia is a shithole country
-7374,en_dataset_with_stop_words,0,0.0,,,,,,,@user China's wall is still standing making sure those mongol hordes didn't conquer them. Oh wait it did\u2026 @URL
+7374,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user China's wall is still standing making sure those mongol hordes didn't conquer them. Oh wait it did\u2026 @URL
 7375,en_dataset_with_stop_words,0,,,,,,,,i got the most gook fresh off the boat ching chong haircut today and half my body wants to rebuke it while the othe… @URL
 7376,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user anime is ching chong
 7377,en_dataset_with_stop_words,0,1.0,,,,,,1.0,Ottie looks radishing. Yukan is the real dill. Dave looks beet down so Lettuce tell ya Julia is twat. #corny #adsofmafsnz #mafsnz
@@ -7394,7 +7394,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7393,en_dataset_with_stop_words,0,0.0,,,,,,,@user You stfu stupid faggot ass bitch
 7394,en_dataset_with_stop_words,0,0.0,,,,,,,@user well cry about it retard
 7395,en_dataset_with_stop_words,0,,,,,,,,a 13 year old just called me a faggot jdjsskaksja the simulation is glitching
-7396,en_dataset_with_stop_words,0,0.0,,,,,,,That's true even if you love tariffs (they're bad); even if you hate immigrants (they're good); even if you love… @URL
+7396,en_dataset_with_stop_words,0,0.0,,,,,,1.0,That's true even if you love tariffs (they're bad); even if you hate immigrants (they're good); even if you love… @URL
 7397,en_dataset_with_stop_words,0,,,,,,,,imagine someone says 'ching chong' and you suddenly feeling tranquil @URL
 7398,en_dataset_with_stop_words,1,,,,,,,,Forest could win the league with record points recorded and Don Goodman will still say were shit. The blokes a twat!
 7399,en_dataset_with_stop_words,0,,,,,,,,@user @user NOT EVEN YOUR COUNTRY @user ! It is OWNED by mongol people who came from Afr\u2026 @URL
@@ -7418,7 +7418,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7417,en_dataset_with_stop_words,0,,,,,,,,i just want u all to know theres a faggot ass army at my halloween party and i hope he chokes on a piece of chocolate
 7418,en_dataset_with_stop_words,0,1.0,,,,,,1.0,im ggoneee. imagine telling me a negro to report colorism to bh when a few months ago i was called a nigger and selfish
 7419,en_dataset_with_stop_words,0,,,,,,,1.0,me : h-\n\nadam : me ling ling ching chong me eat dogs
-7420,en_dataset_with_stop_words,0,0.0,,,,,,,Dems have taken America so far down the Socialist NWO PC shithole we're havin' to re-litigate basic common sense\u2026 @URL
+7420,en_dataset_with_stop_words,0,0.0,,,,,,0.0,Dems have taken America so far down the Socialist NWO PC shithole we're havin' to re-litigate basic common sense\u2026 @URL
 7421,en_dataset_with_stop_words,1,1.0,,,,,,,Ughhh i wanna eat your cunt \ud83d\ude1e
 7422,en_dataset_with_stop_words,1,,,,,,,,I think \the cunt\ symbolizes a window a gate opening to the real world in this case. When a baby sees his mother'\u2026 @URL
 7423,en_dataset_with_stop_words,0,1.0,,,,,,,daddy pain tits big cunt eating cum lezbo public wank wife bbc young masturbation canada \n\n@URL
@@ -7477,7 +7477,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7476,en_dataset_with_stop_words,0,,,,,,,,@user Funny you should mention splodes I just came second because of a mongoloid who shot me twice with a rocket launcher
 7477,en_dataset_with_stop_words,0,,,,,,,,@user I am watching 'negro orfeu' (Black Orpheus'
 7478,en_dataset_with_stop_words,0,1.0,,,,,,,trannys are retarded \u2014 and you\u2019re an asshole \ud83d\udc97 @URL
-7479,en_dataset_with_stop_words,0,0.0,,,,,,,“Keep in mind I’m a negro so my open mind got a screen door” best bar of this whole fuckin album lol
+7479,en_dataset_with_stop_words,0,0.0,,,,,,1.0,“Keep in mind I’m a negro so my open mind got a screen door” best bar of this whole fuckin album lol
 7480,en_dataset_with_stop_words,0,1.0,,,,,,,Why did Wayne collab with a decaying negro
 7481,en_dataset_with_stop_words,0,0.0,,,,,,,@user It is a crude Leftist podcast that uses the word \u201cretard\u201d a lot and has a fan base made up of angr\u2026 @URL
 7482,en_dataset_with_stop_words,0,0.0,,,,,,,What a retard. @URL
@@ -7549,7 +7549,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7548,en_dataset_with_stop_words,0,,,,,,,1.0,@user I'm a man and you're still a retard.
 7549,en_dataset_with_stop_words,0,,,,,,,,i’m calling army the cute nigger society now
 7550,en_dataset_with_stop_words,0,,,,,,,,ryan is a cunt
-7551,en_dataset_with_stop_words,0,,,,,,,,Trevor Belmont is a faggot yupp and i love him
+7551,en_dataset_with_stop_words,0,,,,,,,1.0,Trevor Belmont is a faggot yupp and i love him
 7552,en_dataset_with_stop_words,0,,,,,,,,I got banned once because I called desiinger a retard
 7553,en_dataset_with_stop_words,0,,,,,,,,Guys are retarded
 7554,en_dataset_with_stop_words,0,,,,,,,,Is this meant to be funny...fuckin cunt @URL
@@ -8000,9 +8000,9 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 7999,en_dataset_with_stop_words,0,,,,,,,1.0,Donald Trump wants a wall across North Africa to keep refugees out of Europe @URL
 8000,en_dataset_with_stop_words,0,0.0,,,,,,0.0,@user @user Saying nigger is fine because it was said in 2017 right? LMAO
 8001,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user I detect retard in him @URL
-8002,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user It's bout or responsibility to provide for every citizen of every shithole country. Fix\u2026 @URL
+8002,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user It's bout or responsibility to provide for every citizen of every shithole country. Fix\u2026 @URL
 8003,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user I outlined how you are a mongoloid though.
-8004,en_dataset_with_stop_words,0,,,,,,,,@user @user When Trump jr ends up in jail he will be the hunted instead of defenseless animals in africa.
+8004,en_dataset_with_stop_words,0,,,,,,,1.0,@user @user When Trump jr ends up in jail he will be the hunted instead of defenseless animals in africa.
 8005,en_dataset_with_stop_words,0,0.0,,,,,,,I would but I don\u2019t wanna be called a spic in return \ud83d\ude15 @URL
 8006,en_dataset_with_stop_words,0,0.0,,,,,,,&amp; my retarded ass done sent out my damn feelings in a text message\ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f\ud83d\ude11
 8007,en_dataset_with_stop_words,1,,,,,,,1.0,#feminazi
@@ -8087,7 +8087,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8086,en_dataset_with_stop_words,0,,,,,,,,@user Then why are they carrying the flags of their shithole countries they are fleeing from?\nIf they esca\u2026 @URL
 8087,en_dataset_with_stop_words,0,,,,,,,,Dave Roberts must be the most retard manager ever !!! Wtf is he doing putting in these sorry pitchers
 8088,en_dataset_with_stop_words,0,,,,,,,,@user Says the man who has given his country away to migrants ..paris once one of the beautiful cities of world is a shithole
-8089,en_dataset_with_stop_words,1,,,,,,,,@user @user Don\u2019t be a cunt send that belt back.
+8089,en_dataset_with_stop_words,1,,,,,,,1.0,@user @user Don\u2019t be a cunt send that belt back.
 8090,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user Get out of our country raghead
 8091,en_dataset_with_stop_words,0,,,,,,,,@user He's working on turning the US into a military state shithole country. Soon he'll have the military ou\u2026 @URL
 8092,en_dataset_with_stop_words,0,0.0,,,,,,,@user OR we can turn the US into a shithole country that no one would want to come to. (So far the adm\u2026 @URL
@@ -8133,7 +8133,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8132,en_dataset_with_stop_words,0,,,,,,,,@user We don\u2019t want them to bring their crime and corruption here while waving their shithole countries f\u2026 @URL
 8133,en_dataset_with_stop_words,0,0.0,,,,,,,@user i though i was ur ching chong brother \ud83d\ude16
 8134,en_dataset_with_stop_words,1,,,,,,,,Yes I did this instead of doing ANYTHING productive fuck me im a dumb cunt
-8135,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user Sorry for calling you retard btw. Didn't really mean it
+8135,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user Sorry for calling you retard btw. Didn't really mean it
 8136,en_dataset_with_stop_words,0,,,,,,,,Okay yes -- Trump shouldn't call them \shithole countries.\ A little respect is in order. They are shithole nations.
 8137,en_dataset_with_stop_words,0,1.0,,,,,,,@user Zumbe negro
 8138,en_dataset_with_stop_words,0,,,,,,,,@user Sensitivity is whats going to ruin this country. I got called a wetback and a spic but Im not a damn c\u2026 @URL
@@ -8164,7 +8164,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8163,en_dataset_with_stop_words,0,1.0,,,,,,,Constantly bashing someone who\u2019s dead is okay but if I were to call a gay person a faggot I\u2019m wrong???
 8164,en_dataset_with_stop_words,0,0.0,,,,,,,Radical leftist @user contributor calls @user a \u201cterrorist sympathizer\u201d! No he\u2019s not @user doesn\u2019t sympathize\u2026 @URL
 8165,en_dataset_with_stop_words,0,,,,,,,,I swear grand forks gotta be the retard capital of the world
-8166,en_dataset_with_stop_words,0,,,,,,,,Man is absolute mongoloid can\u2019t believe Chelsea fans have outed him
+8166,en_dataset_with_stop_words,0,,,,,,,1.0,Man is absolute mongoloid can\u2019t believe Chelsea fans have outed him
 8167,en_dataset_with_stop_words,0,0.0,,,,,,,@user Oh I do. I do wanna see them. But right now I am freezing and I'm using the spic pimp as a blanke\u2026 @URL
 8168,en_dataset_with_stop_words,0,1.0,,,,,,,bitches say they crazy but they really be retarded
 8169,en_dataset_with_stop_words,0,,,,,,,,@user why i can say nigger in the text chat but everyone is getting banned because we say the word NIBBA
@@ -8289,7 +8289,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8288,en_dataset_with_stop_words,0,0.0,,,,,,,@user How bout \Mexico's not sending their best people\ or \fine people on both sides\ or \shithole countries\ ..... yeah.
 8289,en_dataset_with_stop_words,0,,,,,,,,negro if that ain’t bars idk what is @URL
 8290,en_dataset_with_stop_words,0,0.0,,,,,,,@user Failing to condemn???? They are actively promoting bigotry! Do the terms \shithole countries\ ring a\u2026 @URL
-8291,en_dataset_with_stop_words,0,,,,,,,,Ching Chong Ching Chong speak English or go back to your country\ud83c\uddfa\ud83c\uddf8
+8291,en_dataset_with_stop_words,0,,,,,,,1.0,Ching Chong Ching Chong speak English or go back to your country\ud83c\uddfa\ud83c\uddf8
 8292,en_dataset_with_stop_words,0,0.0,,,,,,,@user You out here talkin for likes negro all big niggas have had chicken and waffles in their lives at least once fam
 8293,en_dataset_with_stop_words,0,0.0,,,,,,,@user The twat in the White House
 8294,en_dataset_with_stop_words,0,0.0,,,,,,1.0,What a fucking twat waffle \ud83d\ude20 @URL
@@ -8422,7 +8422,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8421,en_dataset_with_stop_words,0,,,,,,,,@user @user This.\n60s peace and love soibois didn't want gooky dooky ching chong chinamen to die so th\u2026 @URL
 8422,en_dataset_with_stop_words,1,1.0,,,,,,,@user you like it cunt
 8423,en_dataset_with_stop_words,0,1.0,,,,,,,My nigga ching chong racist man
-8424,en_dataset_with_stop_words,0,,,,,,,,So is \Robert Bowers\ a Muslim or Mexican or Media or leftist Woman or Refugee?\nWaiting..............................
+8424,en_dataset_with_stop_words,0,,,,,,,1.0,So is \Robert Bowers\ a Muslim or Mexican or Media or leftist Woman or Refugee?\nWaiting..............................
 8425,en_dataset_with_stop_words,0,,,,,,,,Well guess what nigger the cops are already on the way @URL
 8426,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Hahaha Justin is a retarded hobbit\nI mean we were all thinking it... \n#TheEndless #FrightClub
 8427,en_dataset_with_stop_words,0,0.0,,,,,,,Hey GAY Twitter\ud83c\udff3\ufe0f\u200d\ud83c\udf08I honestly would prefer some BIG cocks\ud83d\udc13\ud83d\udc13to fill my tight faggot ass but for now I will settle fo\u2026 @URL
@@ -8450,7 +8450,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8449,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user @user What a twat.
 8450,en_dataset_with_stop_words,0,0.0,,,,,,,@user this dumb Macaron should worry about making France livable country again and not a shithole it's becom\u2026 @URL
 8451,en_dataset_with_stop_words,0,0.0,,,,,,,@user I can't read no ching chong language!
-8452,en_dataset_with_stop_words,0,,,,,,,,she\u2019s retarded your honor @URL
+8452,en_dataset_with_stop_words,0,,,,,,,1.0,she\u2019s retarded your honor @URL
 8453,en_dataset_with_stop_words,0,0.0,,,,,,,@user This what we on when we listen to cat soup @URL
 8454,en_dataset_with_stop_words,0,1.0,,,,,,,@user @user @user @user sadly yes it goes like ching chong wang wong
 8455,en_dataset_with_stop_words,0,,,,,,,,You\u2019re retarded. I didn\u2019t know they make people this stupid. Might want to kill yourself before you drop the collec\u2026 @URL
@@ -8477,7 +8477,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8476,en_dataset_with_stop_words,1,0.0,,,,,,1.0,@user we need to find you a girlfriend because it\u2019s the only time you\u2019re not the most miserable cunt in the world
 8477,en_dataset_with_stop_words,1,,,,,,,,@user Dude shut the fuck up. You\u2019re a fucking 3 year old in a fat suit. Disrespectful cunt. You\u2019re reas\u2026 @URL
 8478,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user Nope. I didn't use any mongoloid there. It's solitary to Go. I know that. There are wor\u2026 @URL
-8479,en_dataset_with_stop_words,1,0.0,,,,,,,Sorta cunt must you be to owe someone money and blatantly avoid giving them it patching texts etc but going on nigh\u2026 @URL
+8479,en_dataset_with_stop_words,1,0.0,,,,,,1.0,Sorta cunt must you be to owe someone money and blatantly avoid giving them it patching texts etc but going on nigh\u2026 @URL
 8480,en_dataset_with_stop_words,0,0.0,,,,,,,My goal today is to get this house spic n span
 8481,en_dataset_with_stop_words,0,0.0,,,,,,,It\u2019s me I\u2019m the dyke who successfully got cruised
 8482,en_dataset_with_stop_words,0,0.0,,,,,,1.0,That\u2019s clue faggot ass...
@@ -8530,7 +8530,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8529,en_dataset_with_stop_words,0,,,,,,,,David Laid the most unnatural looking cunt in the world
 8530,en_dataset_with_stop_words,0,,,,,,,,This old dyke buying me a drink \ud83d\ude02\ud83d\ude02\ud83d\ude02
 8531,en_dataset_with_stop_words,0,0.0,,,,,,,...fun to hear my brother refer to me as a \faggot\ when he thinks I can't hear him.
-8532,en_dataset_with_stop_words,1,0.0,,,,,,,@user you\u2019re dumb. So dumb. No hooe just dumb. Eat shit you racist twat
+8532,en_dataset_with_stop_words,1,0.0,,,,,,1.0,@user you\u2019re dumb. So dumb. No hooe just dumb. Eat shit you racist twat
 8533,en_dataset_with_stop_words,1,0.0,,,,,,,@user I would have head butted that twat much sooner than 2 minutes 20 seconds haha he did well \ud83e\udd1d
 8534,en_dataset_with_stop_words,0,,,,,,,,Sometimes you will talk yourself right out of a blessing. And that’s what this negro just did because I blocked him… @URL
 8535,en_dataset_with_stop_words,0,1.0,,,,,,,@user Family guy holds no bars with stuff they say \ud83d\ude02 racist sexist the lot will never change because some ugly cunt complains about it
@@ -8660,7 +8660,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8659,en_dataset_with_stop_words,0,0.0,,,,,,,@user We share spic bloodlines somewhere
 8660,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user His vlogs were the funniest omg with his dyke friend.. she wss soo funny I MISS IT RJFJFHYF
 8661,en_dataset_with_stop_words,0,0.0,,,,,,,@user Yes! Idc what nobody says that negro is dope!!
-8662,en_dataset_with_stop_words,0,0.0,,,,,,,aye u cannot hate on a nigga and then salute him in one breathe u niggas retarded
+8662,en_dataset_with_stop_words,0,0.0,,,,,,1.0,aye u cannot hate on a nigga and then salute him in one breathe u niggas retarded
 8663,en_dataset_with_stop_words,0,1.0,,,,,,,@user @user You can condemn Saudi Arabia all day long but as soon as you say something like \raghead\\u2026 @URL
 8664,en_dataset_with_stop_words,0,,,,,,,,@user I\u2019ve literally seen the video you fucking retard. I closed it didn\u2019t laugh and moved on
 8665,en_dataset_with_stop_words,0,,,,,,,,you hearing lookin' ass mongoloid #ass #bot
@@ -8752,7 +8752,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8751,en_dataset_with_stop_words,1,0.0,,,,,,1.0,Don\u2019t care if cardiff fans hate Liverpool or not to the cunt singing about hillsborough behind me is a utter cunt.\u2026 @URL
 8752,en_dataset_with_stop_words,0,,,,,,,,@user this is officially the most retarded thing you have ever posted. Who compiles this data?
 8753,en_dataset_with_stop_words,0,,,,,,,,@user Everyone would love to twat there boss he just carried it out! \ud83e\udd4a
-8754,en_dataset_with_stop_words,0,0.0,,,,,,,@user Fucking retard.
+8754,en_dataset_with_stop_words,0,0.0,,,,,,0.0,@user Fucking retard.
 8755,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user You're blind and retarded you loser
 8756,en_dataset_with_stop_words,1,,,,,,,,\u201cI\u2019m a home wrecking cunt\u201d weird flex but okay.
 8757,en_dataset_with_stop_words,0,,,,,,,1.0,Some days my mandarin is on point some days i just ching chong
@@ -8845,7 +8845,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8844,en_dataset_with_stop_words,0,,,,,,,1.0,@user @user Give her the old spic stic
 8845,en_dataset_with_stop_words,1,1.0,,,,,,,The @user &amp; its hysterical #feminazi cabal has reached a new low.
 8846,en_dataset_with_stop_words,0,0.0,,,,,,,make sure yall go check me @user and official_piffboyziggy new video out prd by @user @URL
-8847,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user @user @user then that's not trading you absolute retard they have already allo\u2026 @URL
+8847,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user @user @user @user then that's not trading you absolute retard they have already allo\u2026 @URL
 8848,en_dataset_with_stop_words,0,1.0,,,,,,,@user Yes.\nHe needs to fuck off to a Muslim country and practice there.\nTotal cunt tgat started all the o\u2026 @URL
 8849,en_dataset_with_stop_words,0,,,,,,,,@user @user Are you dumb? I\u2019m not Connor you fucking retard \ud83d\ude02\ud83d\ude02
 8850,en_dataset_with_stop_words,0,,,,,,,,In 2017 right-wing terrorist attacks outpaced leftist and Islamic terrorist attacks. There were over 2X as many ri\u2026 @URL
@@ -8881,7 +8881,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8880,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Games over C9 should surrender and look to not have Svenskaren go full retard in game 2.
 8881,en_dataset_with_stop_words,0,,,,,,,,@user I'd assume \nonce\ is like we say \retard\. Very harsh
 8882,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user @user It's bad and what you expect from the retard unfeeling unkind and does\u2026 @URL
-8883,en_dataset_with_stop_words,0,,,,,,,,@user @user @user There\u2019s always some twat and you are certainly a massive one @user
+8883,en_dataset_with_stop_words,0,,,,,,,1.0,@user @user @user There\u2019s always some twat and you are certainly a massive one @user
 8884,en_dataset_with_stop_words,0,,,,,,,,A baby knows more than the POTUS #mongoloid
 8885,en_dataset_with_stop_words,0,,,,,,,,@user and nigger what about it
 8886,en_dataset_with_stop_words,1,,,,,,,,@user Everything about her is enraging. Smug little twat.
@@ -8913,7 +8913,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 8912,en_dataset_with_stop_words,0,,,,,,,1.0,Of course a safety net is necesary that's a basic principle of a civikized country.\nNo shithole country has a safet\u2026 @URL
 8913,en_dataset_with_stop_words,0,0.0,,,,,,,@user Migrants bring disease and death they have not been properly vetted
 8914,en_dataset_with_stop_words,0,1.0,,,,,,1.0,since cishets feel the need to butt their head into everything lgbt+ related: gay people can say faggot.\ntransgende\u2026 @URL
-8915,en_dataset_with_stop_words,0,,,,,,,,Twisted tuna aye \ud83d\ude02\ud83d\ude02\ud83d\ude02 fucking faggot
+8915,en_dataset_with_stop_words,0,,,,,,,1.0,Twisted tuna aye \ud83d\ude02\ud83d\ude02\ud83d\ude02 fucking faggot
 8916,en_dataset_with_stop_words,0,,,,,,,,@user i've had friends that were girls that were borderline retarded looking\nit's a person's personality that wins out
 8917,en_dataset_with_stop_words,0,,,,,,,,@user stop making it gay u faggot
 8918,en_dataset_with_stop_words,0,1.0,,,,,,1.0,@user @user Witch muslim country is not a shithole? #crickets
@@ -9022,7 +9022,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9021,en_dataset_with_stop_words,0,,,,,,,,@user It’s true but there was a report today that said there are 22 million illegal aliens in the US and in… @URL
 9022,en_dataset_with_stop_words,0,0.0,,,,,,,Roberts is retarded
 9023,en_dataset_with_stop_words,0,,,,,,,,@user Lmao but how? With ching chong culture?
-9024,en_dataset_with_stop_words,0,0.0,,,,,,,@user They don\u2019t bother me if we\u2019re close and stuff but people constantly make ching chong jokes and I just hj\u2026 @URL
+9024,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user They don\u2019t bother me if we\u2019re close and stuff but people constantly make ching chong jokes and I just hj\u2026 @URL
 9025,en_dataset_with_stop_words,0,,,,,,,,@URL So I hear we have some sick leftists aka Democrats that want to bring in Migrants/Illegal a\u2026 @URL
 9026,en_dataset_with_stop_words,0,,,,,,,,@user no I dont mean like liver dysfunction yellow\nlike chinaman yellow
 9027,en_dataset_with_stop_words,0,,,,,,,,Just when i thought i couldnt be more ching chong my eyes proved me wrong.
@@ -9123,7 +9123,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9122,en_dataset_with_stop_words,0,,,,,,,,@user @user Dirty raghead.
 9123,en_dataset_with_stop_words,1,0.0,,,,,,,@user In a pub it is ya boring cunt! Lighten up mate
 9124,en_dataset_with_stop_words,0,,,,,,,,@user @user @user Sounds like he's the perfect rube for the leftists
-9125,en_dataset_with_stop_words,0,0.0,,,,,,,@user Oh Hell No! I'm saving my dollars to help build the wall to protect us from the rapey killer illegal aliens!
+9125,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user Oh Hell No! I'm saving my dollars to help build the wall to protect us from the rapey killer illegal aliens!
 9126,en_dataset_with_stop_words,0,,,,,,,,raghead hours!!!!!!
 9127,en_dataset_with_stop_words,0,0.0,,,,,,,They thinking who put this nigger up there @URL
 9128,en_dataset_with_stop_words,0,0.0,,,,,,,Don\u2019t be like the @user passengers I had tonight that kept saying faggot/fag/queers over and over even after I aske\u2026 @URL
@@ -9154,7 +9154,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9153,en_dataset_with_stop_words,0,,,,,,,0.0,The US really is a shithole country
 9154,en_dataset_with_stop_words,0,,,,,,,,@user Just a shame your an absolute faggot
 9155,en_dataset_with_stop_words,0,1.0,,,,,,1.0,41 years ago today a child was born. The parents feared the worst (for a second they thought she was a mongoloid).\u2026 @URL
-9156,en_dataset_with_stop_words,0,0.0,,,,,,,They do not know the meaning of the word \ respect\ which is why our country has turned into the shithole it is but\u2026 @URL
+9156,en_dataset_with_stop_words,0,0.0,,,,,,1.0,They do not know the meaning of the word \ respect\ which is why our country has turned into the shithole it is but\u2026 @URL
 9157,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user that\u2019s actually retarded
 9158,en_dataset_with_stop_words,0,0.0,,,,,,,Only a lefty twat would @URL
 9159,en_dataset_with_stop_words,0,,,,,,,1.0,@user Paris. November nigger
@@ -9305,7 +9305,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9304,en_dataset_with_stop_words,0,,,,,,,,@user So if you're from California should I be asking \How is your butt feeling faggot?\
 9305,en_dataset_with_stop_words,0,0.0,,,,,,0.0,..... swaggy is a retard
 9306,en_dataset_with_stop_words,0,0.0,,,,,,,@user needs to remind @user over one million Polish immigrants have flooded Britain and sent £23 bill… @URL
-9307,en_dataset_with_stop_words,0,0.0,,,,,,,@user Wait. lost control am in dyke w/ her @URL
+9307,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user Wait. lost control am in dyke w/ her @URL
 9308,en_dataset_with_stop_words,0,,,,,,,,antis: bts look like girls ching chong (plus other racist shit)
 9309,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user They aren\u2019t going to send journalists to the front line of an unstable war zone you mongoloid
 9310,en_dataset_with_stop_words,0,,,,,,,0.0,@user @user @user Yes I feel like right wingers would do what they do as would the leftist when they can\u2026 @URL
@@ -9493,12 +9493,12 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9492,en_dataset_with_stop_words,0,,,,,,,,There are some truly retarded people running @user @URL
 9493,en_dataset_with_stop_words,0,0.0,,,,,,1.0,dear ma’am: “ching chong chang” is not actual Chinese. that’s fucking racist.
 9494,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user And the rest of the country couldn\u2019t give a fuck about your London shithole
-9495,en_dataset_with_stop_words,0,,,,,,,,@user Seriously. Kavvanaughs accuser should be arrested and taken to mexico alongside all illegal aliens of mexi… @URL
-9496,en_dataset_with_stop_words,0,1.0,,,,,,,All because I \u201ca foreign cunt\u201d apparently really can\u2019t speak on British streets. .... So I spoke in Parliament ne\u2026 @URL
+9495,en_dataset_with_stop_words,0,,,,,,,1.0,@user Seriously. Kavvanaughs accuser should be arrested and taken to mexico alongside all illegal aliens of mexi… @URL
+9496,en_dataset_with_stop_words,0,1.0,,,,,,1.0,All because I \u201ca foreign cunt\u201d apparently really can\u2019t speak on British streets. .... So I spoke in Parliament ne\u2026 @URL
 9497,en_dataset_with_stop_words,0,0.0,,,,,,,@user I wont waste my time reading this retard's hate speech he cant even spell JEALOUS correctly
 9498,en_dataset_with_stop_words,0,,,,,,,,@user @user @user ah eso me parecia ching chong
 9499,en_dataset_with_stop_words,0,,,,,,,,@user can call me nigger
-9500,en_dataset_with_stop_words,1,0.0,,,,,,,I wish I have a situation/issue with a racist calling me a spic or some racist shit god only knows \ud83d\ude02\ud83d\ude02\ud83d\ude02 @URL
+9500,en_dataset_with_stop_words,1,0.0,,,,,,1.0,I wish I have a situation/issue with a racist calling me a spic or some racist shit god only knows \ud83d\ude02\ud83d\ude02\ud83d\ude02 @URL
 9501,en_dataset_with_stop_words,0,1.0,,,,,,1.0,Did this negro really call me a broke bitch bc I’m sellin bundles from #couponing @URL
 9502,en_dataset_with_stop_words,0,0.0,,,,,,,Americans: Lol ur a dingus\n\nAussies: Fuck off ya fucken dog cunt
 9503,en_dataset_with_stop_words,0,0.0,,,,,,1.0,a barbican is a forefront: anticompetitive not mongoloid
@@ -9640,7 +9640,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9639,en_dataset_with_stop_words,0,,,,,,,,you are such an up yourself hidious cunt \u2014 If any of you wanna know about my \haters\ this fuckhead is number 1 @URL
 9640,en_dataset_with_stop_words,1,1.0,,,,,,,@user Bunch of soy boys and feminazi's all paid by Soros.
 9641,en_dataset_with_stop_words,1,1.0,,,,,,,Listen cunt decide anything mackerel lololol
-9642,en_dataset_with_stop_words,0,,,,,,,,@user @user What the fuck suicide is male prostitute rubbish chinaman lee hsien loong imagining having\u2026 @URL
+9642,en_dataset_with_stop_words,0,,,,,,,1.0,@user @user What the fuck suicide is male prostitute rubbish chinaman lee hsien loong imagining having\u2026 @URL
 9643,en_dataset_with_stop_words,0,,,,,,,,im going to twat you in the bitch
 9644,en_dataset_with_stop_words,0,,,,,,,1.0,Normal people laugh: Hehe *cute smile*... Me laughing: HAHAHAHAHAHAHAHAHAHAHAHAHA *claps hands like a retarded seal*
 9645,en_dataset_with_stop_words,0,,,,,,,,@user And this is why the country is turning in to a shithole. We desperately need political change
@@ -9719,7 +9719,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9718,en_dataset_with_stop_words,0,0.0,,,,,,,I just got called a nigger for the 3rd time this week already and it just started lol y’all wild
 9719,en_dataset_with_stop_words,0,1.0,,,,,,,They trying to replace Wes don't hate the playa hate the game Gibbons with this negro....smh
 9720,en_dataset_with_stop_words,0,,,,,,,,A lot of people #WalkingAway today. Dems exposed themselves. I think even illegal aliens and dead people will now vote red!
-9721,en_dataset_with_stop_words,0,,,,,,,,@user is so hilarious going down my time line and seeing everyone bash your faggot assss \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nU a clown bro fr fr
+9721,en_dataset_with_stop_words,0,,,,,,,1.0,@user is so hilarious going down my time line and seeing everyone bash your faggot assss \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nU a clown bro fr fr
 9722,en_dataset_with_stop_words,0,1.0,,,,,,,@user now this mentally retard @user come down to lies of highest order like his mentally challanged BOSS PAPPU
 9723,en_dataset_with_stop_words,0,1.0,,,,,,1.0,@user @user Shut the fuck up you stupid bitch ass retard
 9724,en_dataset_with_stop_words,0,0.0,,,,,,,Never go full retard @URL
@@ -9774,7 +9774,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9773,en_dataset_with_stop_words,0,,,,,,,,@user you don't even need to give it this much thought.. It's a retarded idea
 9774,en_dataset_with_stop_words,0,,,,,,,,@user @user I do. Northern Native Americans have mongoloid features like Asians. Look at eskimos. S\u2026 @URL
 9775,en_dataset_with_stop_words,0,,,,,,,,Globalist doesn\u2019t mean Jew you retard. Jew = Jew according to the reflexive property @URL
-9776,en_dataset_with_stop_words,0,0.0,,,,,,,Hulk Hogan lost any respect I had for him after I heard him use the word “nigger”.
+9776,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Hulk Hogan lost any respect I had for him after I heard him use the word “nigger”.
 9777,en_dataset_with_stop_words,0,0.0,,,,,,,wise men say....... u a faggot
 9778,en_dataset_with_stop_words,1,0.0,,,,,,1.0,@user What a twat!
 9779,en_dataset_with_stop_words,0,,,,,,,,@user @user @user @user Only Russia could become MORE civilized because the mongol hordes invaded.
@@ -9899,7 +9899,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9898,en_dataset_with_stop_words,0,0.0,,,,,,,It used to be this sort of thing only happened in shithole countries. @URL
 9899,en_dataset_with_stop_words,0,,,,,,,,@user Is all 40 lakh people are illegal immigrants hard to believe how these unimaginable immigrants ent… @URL
 9900,en_dataset_with_stop_words,0,,,,,,,0.0,Mongolia beautiful nature...#mongolia #mongol #nature #amazing @URL
-9901,en_dataset_with_stop_words,0,,,,,,,,y\u2019all hoes is nasty retarded and desperate.
+9901,en_dataset_with_stop_words,0,,,,,,,1.0,y\u2019all hoes is nasty retarded and desperate.
 9902,en_dataset_with_stop_words,0,0.0,,,,,,,are the conservatives really trying to say the Austin Mail Bomber was a radical leftist terrorist
 9903,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user 1 faggot
 9904,en_dataset_with_stop_words,0,0.0,,,,,,,@user No bro go post ur toes retard
@@ -9937,7 +9937,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9936,en_dataset_with_stop_words,1,0.0,,,,,,,Stop pleasin' strangers\nInstead of fam'ly you twat!
 9937,en_dataset_with_stop_words,0,,,,,,,,@user Good why disrupt commerce over some dead raghead @URL
 9938,en_dataset_with_stop_words,0,,,,,,,,@user @user what does this have to do with some retard cutting across two lanes then stopping
-9939,en_dataset_with_stop_words,0,,,,,,,,@user who's the mongoloid?
+9939,en_dataset_with_stop_words,0,,,,,,,1.0,@user who's the mongoloid?
 9940,en_dataset_with_stop_words,0,0.0,,,,,,1.0,It’s okay to be white @URL
 9941,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user @user @user You have me in the thread you twat.\n\nYou literally said \It\u2019\u2026 @URL
 9942,en_dataset_with_stop_words,0,,,,,,,,if u cheat in a tourney ur basically a massive faggot
@@ -9982,7 +9982,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 9981,en_dataset_with_stop_words,0,,,,,,,,My bro friend retarded af \ud83d\ude02\ud83d\ude02\ud83d\ude02 #CamelToe @URL
 9982,en_dataset_with_stop_words,0,0.0,,,,,,,Border Patrol agents discover nearly 200 illegal immigrants in remote Arizona desert @URL
 9983,en_dataset_with_stop_words,0,,,,,,,,indigenous mongol people majority in nepal @URL
-9984,en_dataset_with_stop_words,0,,,,,,,,@user @user Voting rights are stronger in shithole countries.
+9984,en_dataset_with_stop_words,0,,,,,,,1.0,@user @user Voting rights are stronger in shithole countries.
 9985,en_dataset_with_stop_words,0,,,,,,,,@user The Canadian model allows NGOs and groups of private individuals to sponsor refugees above the federal intake.
 9986,en_dataset_with_stop_words,0,,,,,,,,@user Luke is retarded with his rotations as well. Kept Josh for a long time. Should have played Zo play down the stretch.
 9987,en_dataset_with_stop_words,0,0.0,,,,,,,@user lmaoooooo i do love how ppls excuse is \u201cthe rep is vague\u201d like oh my god thats literally chinese coded maybe mongol but ok
@@ -10048,7 +10048,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10047,en_dataset_with_stop_words,1,,,,,,,,@user Shut the fuck up you horrible cunt
 10048,en_dataset_with_stop_words,0,,,,,,,,Attn: White Conservatives.\n\nDo you:\n\n-Hate George Soros &amp; other meddling leftist billionaire financiers?\n\n-Consider\u2026 @URL
 10049,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user @user You faggot
-10050,en_dataset_with_stop_words,0,,,,,,,,How despicable!! Race baiting &amp; insulting the negro race!! @URL
+10050,en_dataset_with_stop_words,0,,,,,,,1.0,How despicable!! Race baiting &amp; insulting the negro race!! @URL
 10051,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user Gun violence is a law issue you are special kind of retard it's illegal to s\u2026 @URL
 10052,en_dataset_with_stop_words,0,0.0,,,,,,,Struggling whether to feel sorry for americans for electing a retard to lead the country...\n\nFor all you sensitive\u2026 @URL
 10053,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Remember that time Trump referred to Haiti and African nations as \shithole countries\? #itmfa
@@ -10080,7 +10080,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10079,en_dataset_with_stop_words,0,,,,,,,,@user Not everyone means that when they say it's okay to be white
 10080,en_dataset_with_stop_words,0,0.0,,,,,,,What're they gonna do if someone commissions an it's okay to be white piece?
 10081,en_dataset_with_stop_words,0,,,,,,,,@user il va emmener quelques migrants avec lui ?
-10082,en_dataset_with_stop_words,0,,,,,,,,As long as you are a non threatening negro and echo white feminist &amp; supremacist talking points your tv show will… @URL
+10082,en_dataset_with_stop_words,0,,,,,,,1.0,As long as you are a non threatening negro and echo white feminist &amp; supremacist talking points your tv show will… @URL
 10083,en_dataset_with_stop_words,1,,,,,,,,@user twitter war I\u2019m here to state facts u horrible cunt now u defend woman beaters if u want u don\u2019t l\u2026 @URL
 10084,en_dataset_with_stop_words,0,0.0,,,,,,0.0,@user You\u2019re fucking retarded I agreed that helicopters were dangerous you twat. That\u2019s totally not the point.\u2026 @URL
 10085,en_dataset_with_stop_words,1,0.0,,,,,,,Dressed as a cholo and got yelled at by people in a car and they said \look at that fucking spic\
@@ -10418,7 +10418,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10417,en_dataset_with_stop_words,1,,,,,,,,if you can\u2019t jam to my spic music ion want you
 10418,en_dataset_with_stop_words,0,0.0,,,,,,1.0,My Grandma did not teach her children Spanish for the same reason most immigrants refuse to learn/speak English fe… @URL
 10419,en_dataset_with_stop_words,0,0.0,,,,,,,There are shithole countries that I\u2019d never visit even if I was paid millions. Savage backward inhumane bastards\u2026 @URL
-10420,en_dataset_with_stop_words,1,,,,,,,,@user Obviously some cunt who doesn\u2019t even know his own teams history
+10420,en_dataset_with_stop_words,1,,,,,,,1.0,@user Obviously some cunt who doesn\u2019t even know his own teams history
 10421,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user thank u spic
 10422,en_dataset_with_stop_words,0,,,,,,,,@user spic
 10423,en_dataset_with_stop_words,0,0.0,,,,,,,@user in his 50s \ud83d\ude2d @URL
@@ -10436,7 +10436,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10435,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user back of the battle bus nigger
 10436,en_dataset_with_stop_words,0,,,,,,,,We have some fucking retarded fans. Durrr JG lost this game because our defense couldn't stop them...durrrr
 10437,en_dataset_with_stop_words,0,1.0,,,,,,,@user This beautiful life... ching chong ling long
-10438,en_dataset_with_stop_words,0,0.0,,,,,,,Hey man full offense it\u2019s fucking Shabbat so like it\u2019s double no gun zone fucking twat @URL
+10438,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Hey man full offense it\u2019s fucking Shabbat so like it\u2019s double no gun zone fucking twat @URL
 10439,en_dataset_with_stop_words,0,,,,,,,,Why don't you worry about the BULLSHIT going on in your godforsaken shithole of a country and leave us alone to ca\u2026 @URL
 10440,en_dataset_with_stop_words,0,0.0,,,,,,,me: h\noomf: retweet my last tweet faggot @URL
 10441,en_dataset_with_stop_words,0,,,,,,,1.0,lol these new spic rappers different
@@ -10448,7 +10448,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10447,en_dataset_with_stop_words,0,,,,,,,,But I actually called you a dirty jew
 10448,en_dataset_with_stop_words,0,0.0,,,,,,,“and don’t forget i’m a negro /
 10449,en_dataset_with_stop_words,0,0.0,,,,,,,she has me smiling like a retard \ud83d\ude11\ud83e\udd2a @URL
-10450,en_dataset_with_stop_words,0,,,,,,,,Is it just me or does it appear that the mad bomber had his van all cleaned up spic-and-span for when he got arrested?
+10450,en_dataset_with_stop_words,0,,,,,,,0.0,Is it just me or does it appear that the mad bomber had his van all cleaned up spic-and-span for when he got arrested?
 10451,en_dataset_with_stop_words,0,,,,,,,,Rondo is retarded \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02
 10452,en_dataset_with_stop_words,0,,,,,,,,I can\u2019t believe I have to travel to this shithole fucking country next week
 10453,en_dataset_with_stop_words,0,,,,,,,,@user well did you call it a faggot back?
@@ -10529,10 +10529,10 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10528,en_dataset_with_stop_words,0,,,,,,,,I feel like this one mutual would call me a spic behind my back
 10529,en_dataset_with_stop_words,0,,,,,,,,According to some people of a leftist persuasion the Mongol invasion of China was simply misunderstood; it was rea\u2026 @URL
 10530,en_dataset_with_stop_words,0,,,,,,,1.0,@user just said \u201cchinaman\u201d
-10531,en_dataset_with_stop_words,0,0.0,,,,,,,@user Interestingly Vanessa Beeley mostly Re-Tweets Vanessa Beeley like most narcissistic Conspiracy Theoris\u2026 @URL
+10531,en_dataset_with_stop_words,0,0.0,,,,,,0.0,@user Interestingly Vanessa Beeley mostly Re-Tweets Vanessa Beeley like most narcissistic Conspiracy Theoris\u2026 @URL
 10532,en_dataset_with_stop_words,0,1.0,,,,,,1.0,When rappers say faggot&gt;&gt;
 10533,en_dataset_with_stop_words,0,,,,,,,,@user @user This is what the Democrats do. It's no wonder they support illegal aliens. Because th… @URL
-10534,en_dataset_with_stop_words,0,0.0,,,,,,,Leftists stop sending me gifs of some movie reference i dont get of some twat shrugging their shoulders. Why don't\u2026 @URL
+10534,en_dataset_with_stop_words,0,0.0,,,,,,1.0,Leftists stop sending me gifs of some movie reference i dont get of some twat shrugging their shoulders. Why don't\u2026 @URL
 10535,en_dataset_with_stop_words,0,0.0,,,,,,,Had a panic attack imagining buying red dead redemption on release day then as soon as I am doing some retarded tu\u2026 @URL
 10536,en_dataset_with_stop_words,0,,,,,,,,@user @user @user You stupid twat why can\u2019t you see that this is an invasion to our country\u2026 @URL
 10537,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user Hate to say it Cochise but unfortunately twats like trump have left a stain on our credibi\u2026 @URL
@@ -10654,7 +10654,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10653,en_dataset_with_stop_words,0,0.0,,,,,,,I got called a faggot at work today
 10654,en_dataset_with_stop_words,0,,,,,,,,@user negro we don’t need clips to be posted. we need people to be streaming.
 10655,en_dataset_with_stop_words,1,,,,,,,,@user Look at your very first tweet man. Not THIS thread. You Fuccin cunt of an idiot.
-10656,en_dataset_with_stop_words,0,,,,,,,,@user This is him on my wacom while I try to work. @URL
+10656,en_dataset_with_stop_words,0,,,,,,,0.0,@user This is him on my wacom while I try to work. @URL
 10657,en_dataset_with_stop_words,0,,,,,,,,@user What an absolute retard
 10658,en_dataset_with_stop_words,0,,,,,,,,@user What have I ever said that denies that? You\u2019re a fucking retard dude. Go ahead and kill someone for I\u2026 @URL
 10659,en_dataset_with_stop_words,0,,,,,,,,If y\u2019all still use \u201cretarded\u201d to describe something ridiculous or stupid I just want you to know that you deserve\u2026 @URL
@@ -10884,7 +10884,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10883,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user @user Did he not call Nigerians other African countries \shithole\? Are u guys se\u2026 @URL
 10884,en_dataset_with_stop_words,0,1.0,,,,,,1.0,@user Aditi go back to where you come from. You dont even reside in Cleveland. Do you even like yourself? D\u2026 @URL
 10885,en_dataset_with_stop_words,0,1.0,,,,,,1.0,@user Id Rather be a nigger than a dumb bitch you dumb bitch
-10886,en_dataset_with_stop_words,0,,,,,,,,@user Deadset most unfunniest retard
+10886,en_dataset_with_stop_words,0,,,,,,,0.0,@user Deadset most unfunniest retard
 10887,en_dataset_with_stop_words,0,,,,,,,,@user Bye nigger lol
 10888,en_dataset_with_stop_words,0,0.0,,,,,,,@user Me waiting to be called a nigger at work....so I can go to HR for my payout @URL
 10889,en_dataset_with_stop_words,1,,,,,,,,@user Good job faggot
@@ -10958,7 +10958,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10957,en_dataset_with_stop_words,0,,,,,,,,@user Just a French retard
 10958,en_dataset_with_stop_words,0,0.0,,,,,,,@user He\u2019s not even fucking funny and his MCing is so subpar I\u2019d rather listen to a plunger in a toilet tbqh what a bland twat
 10959,en_dataset_with_stop_words,0,,,,,,,0.0,Gavin Newsom wants to give illegal aliens free healthcare.
-10960,en_dataset_with_stop_words,0,,,,,,,,If Ashley Young is Manchester United's captain then I'm a chinaman
+10960,en_dataset_with_stop_words,0,,,,,,,1.0,If Ashley Young is Manchester United's captain then I'm a chinaman
 10961,en_dataset_with_stop_words,1,1.0,,,,,,,@user is a cunt @URL
 10962,en_dataset_with_stop_words,0,0.0,,,,,,1.0,You were right royal I am retarded you are right everything about me.
 10963,en_dataset_with_stop_words,0,,,,,,,,Boosting the retard @user @URL
@@ -10998,7 +10998,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 10997,en_dataset_with_stop_words,0,0.0,,,,,,,great mongol khan coin @URL
 10998,en_dataset_with_stop_words,0,1.0,,,,,,,@user why do all A E S T HE T I C shirts basically have \ching chong nintendo 64 im an orientalist who thi\u2026 @URL
 10999,en_dataset_with_stop_words,0,,,,,,,,@user @user It's a lynching! No wait. OK it's not a lynching but it's a deep state feminazi conspiracy! Yeah that's it.
-11000,en_dataset_with_stop_words,0,,,,,,,,@user @user nice black ops monster retard
+11000,en_dataset_with_stop_words,0,,,,,,,0.0,@user @user nice black ops monster retard
 11001,en_dataset_with_stop_words,0,,,,,,,,Korean guy: ching chong
 11002,en_dataset_with_stop_words,0,1.0,,,,,,1.0,When your mongoloid child recites his ABC's. #OddTimesToLaugh
 11003,en_dataset_with_stop_words,0,0.0,,,,,,,dont mess w/ me coz im retarded &amp; gay
@@ -11098,7 +11098,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11097,en_dataset_with_stop_words,0,0.0,,,,,,,If I'm biopolar from this- So is Steven King for his books. \nNice retard try. Same retard channel.
 11098,en_dataset_with_stop_words,0,,,,,,,,you korean lookin' ass retard #ass #bot
 11099,en_dataset_with_stop_words,0,,,,,,,1.0,The difference is Obama doesn\u2019t say he\u2019s against all immigration from \u201cshithole\u201d countries. Conservatives like myse\u2026 @URL
-11100,en_dataset_with_stop_words,0,,,,,,,,That entire van is spic and span. Colors of stickers vibrant. No curling edges. Hmmm... @URL
+11100,en_dataset_with_stop_words,0,,,,,,,0.0,That entire van is spic and span. Colors of stickers vibrant. No curling edges. Hmmm... @URL
 11101,en_dataset_with_stop_words,0,,,,,,,,ODEE's performance was better hands down. Swings is a retard \ud83d\ude02 But damn! He's a monster performer\n#SMTM777\u2026 @URL
 11102,en_dataset_with_stop_words,0,,,,,,,0.0,so while cleaning up i found a new eraser and 2 unsharpened mongol pencils hayyy nagbakal pa ko for nmat
 11103,en_dataset_with_stop_words,1,,,,,,,,Glass jawed faggot. Mind you that was a fair crack he took there. \ud83d\udc4a\ud83d\udc4a @URL
@@ -11125,7 +11125,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11124,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user You don't tell the President what to do. \n\nSafety of our Country???? You people want a shithole\u2026 @URL
 11125,en_dataset_with_stop_words,0,1.0,,,,,,,@user You beefing with a dyke!!!
 11126,en_dataset_with_stop_words,0,,,,,,,,@user @user well if western nations stopped helping shithole countries their people would starve to death. problem solved.
-11127,en_dataset_with_stop_words,0,0.0,,,,,,,@user nahhh im a retard xd
+11127,en_dataset_with_stop_words,0,0.0,,,,,,0.0,@user nahhh im a retard xd
 11128,en_dataset_with_stop_words,1,,,,,,,,@user I like doing toothpaste or even urethra. Toothpaste makes them squirm and urethra makes their dick into a cunt :)
 11129,en_dataset_with_stop_words,0,0.0,,,,,,1.0,I have the answer! If we keep illegal aliens in our country we get to deport one democrat for every one illegal we… @URL
 11130,en_dataset_with_stop_words,0,0.0,,,,,,,@user I can remember being told colored people (euphonysm for spics) bank down the street you can't bank\u2026 @URL
@@ -11143,7 +11143,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11142,en_dataset_with_stop_words,0,0.0,,,,,,,does Sen ching chong ever talk about black on asian violence? @URL
 11143,en_dataset_with_stop_words,0,,,,,,,,@user @user White privilege dufas everyone is saying it's not okay to be white keep up Sherlock
 11144,en_dataset_with_stop_words,0,0.0,,,,,,,Stan's Mom: Stan what did I tell you about watching the Osbournes? It's going to make you retarded!
-11145,en_dataset_with_stop_words,0,,,,,,,,\u2066@user : You might be surprised that the bomber is probably not an illegal immigrant from a \u201cshithole\u2026 @URL
+11145,en_dataset_with_stop_words,0,,,,,,,1.0,\u2066@user : You might be surprised that the bomber is probably not an illegal immigrant from a \u201cshithole\u2026 @URL
 11146,en_dataset_with_stop_words,0,,0.0,,,,,,Or spic y\u2019all.....the first time I heard it I was 13 and I was like umm what? Did you say speak? lol then when som\u2026 @URL
 11147,en_dataset_with_stop_words,0,,,,,,,,@user Watch on a TV you mongoloid
 11148,en_dataset_with_stop_words,0,,,,,,,1.0,The faggot #9news #CNN @URL
@@ -11154,7 +11154,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11153,en_dataset_with_stop_words,0,0.0,,,,,,,@user I predicted that joke before you even made it. Get some good material you fucking mongoloid
 11154,en_dataset_with_stop_words,0,0.0,,,,,,,@user \u201cI\u2019m a faggot\u201d
 11155,en_dataset_with_stop_words,0,0.0,,,,,,,stan twitter thinks they\u2019re so funny making jokes about x\u2019s death . don\u2019t be surpised when ching chong junior dies\u2026 @URL
-11156,en_dataset_with_stop_words,1,,,,,,,,The next cunt to mention \scorpio season\ is getting a one two Kostya Tzu
+11156,en_dataset_with_stop_words,1,,,,,,,1.0,The next cunt to mention \scorpio season\ is getting a one two Kostya Tzu
 11157,en_dataset_with_stop_words,0,,,,,,,,@user He ain't going nowhere.hes a soup taker of the worst kind.
 11158,en_dataset_with_stop_words,1,,,,,,,,@user You can\u2019t be serious! It\u2019s daddy\u2019s fault you twat. You are living in lala land. You all make me sick. #FuckTrumps
 11159,en_dataset_with_stop_words,0,,,,,,,,Ew is all i can truly say without being a cunt
@@ -11344,7 +11344,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11343,en_dataset_with_stop_words,0,,,,,,,,@user You could just point out that they all come from shithole countries but we know how you feel about that phrase too.
 11344,en_dataset_with_stop_words,1,0.0,,,,,,,@user Not the leader of the free world anymore. What a twat. (Expletives suppressed.)
 11345,en_dataset_with_stop_words,0,,,,,,,,@user @user Leaving their shithole countries to turn Europe into a continent full of shithole countries.\nGo home!!!
-11346,en_dataset_with_stop_words,0,0.0,,,,,,,.@user Do me and America a favor and stop giving these hateful leftist reporters the privilege of asking\u2026 @URL
+11346,en_dataset_with_stop_words,0,0.0,,,,,,1.0,.@user Do me and America a favor and stop giving these hateful leftist reporters the privilege of asking\u2026 @URL
 11347,en_dataset_with_stop_words,0,,,,,,,,one of my irls is chinese and whenever she educates this girl to not say ‘ching chong’ and shit the girl goes “it’… @URL
 11348,en_dataset_with_stop_words,1,,,,,,,,My fucking twat is a joke
 11349,en_dataset_with_stop_words,0,0.0,,,,,,,Disgusting tweet you vile cunt. @URL
@@ -11364,7 +11364,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11363,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user Luke is retarded he needs to do a better job with these rotations and stop calling dumb timeouts
 11364,en_dataset_with_stop_words,0,0.0,,,,,,,Which faggot is paying for new underwear. Message me f\u2026 @URL
 11365,en_dataset_with_stop_words,0,0.0,,,,,,,Wait nvm I\u2019m retarded I got one with Seth \ud83d\ude02\n\ncarry on
-11366,en_dataset_with_stop_words,0,0.0,,,,,,,@user Go on finish your sentence mongol
+11366,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user Go on finish your sentence mongol
 11367,en_dataset_with_stop_words,0,0.0,,,,,,,@user ching chong 100
 11368,en_dataset_with_stop_words,0,1.0,,,,,,,Im Gay .1890's gay not 1990's gay.I hate filthy faggot queers\nI love jewsthe jews of the Maccabean era Ihate the\u2026 @URL
 11369,en_dataset_with_stop_words,0,,,,,,,,Anon is a faggot @URL @URL
@@ -11530,12 +11530,12 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11529,en_dataset_with_stop_words,0,,,,,,,,Rondo is a retard lmao I'll kill myself
 11530,en_dataset_with_stop_words,0,0.0,,,,,,,U fucking twat
 11531,en_dataset_with_stop_words,0,0.0,,,,,,,Une association qui vient en aide aux migrants @URL
-11532,en_dataset_with_stop_words,0,0.0,,,,,,,@user The fuck you want you literal retard
+11532,en_dataset_with_stop_words,0,0.0,,,,,,0.0,@user The fuck you want you literal retard
 11533,en_dataset_with_stop_words,0,0.0,,,,,,,@user Nah thank Svenskeren. He retarded his own progression by wasting the early invade on Broxah and then compo\u2026 @URL
 11534,en_dataset_with_stop_words,0,,,,,,,,To a lot of ya I may sound dumb retarded or whatever. Personally none of ya opinions have ever mattered. I just do\u2026 @URL
 11535,en_dataset_with_stop_words,1,1.0,,,,,,1.0,Being sleep deprived or hungry is not a free pass to be a cunt.
 11536,en_dataset_with_stop_words,0,0.0,,,,,,,BBC News - Nauru refugees: The island where…
-11537,en_dataset_with_stop_words,0,0.0,,,,,,,@user thats retarded
+11537,en_dataset_with_stop_words,0,0.0,,,,,,0.0,@user thats retarded
 11538,en_dataset_with_stop_words,0,0.0,,,,,,,@user Poor Sweden. Turning into shithole country. But those eurofruits don\u2019t want to help themselves so w\u2026 @URL
 11539,en_dataset_with_stop_words,0,0.0,,,,,,,@user His daughter is a Jew you simplistic retard.
 11540,en_dataset_with_stop_words,0,1.0,,,,,,,Is y\u2019all hoes dumb stupid or retarded??? I just wanna kno
@@ -11579,7 +11579,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11578,en_dataset_with_stop_words,1,0.0,,,,,,,@user @user How many cunts would a cultcunt cult if a cultcunt could cunt cults?
 11579,en_dataset_with_stop_words,0,,,,,,,,get a life you retard
 11580,en_dataset_with_stop_words,0,,,,,,,0.0,Despicable #Zionazi bastards. \n\n#BDS #FreePalestine #FreeGaza #IDFcowards #Satanyahu #Zionists #Israel @URL
-11581,en_dataset_with_stop_words,0,,,,,,,,@user @user @user It\u2019s a game retard
+11581,en_dataset_with_stop_words,0,,,,,,,1.0,@user @user @user It\u2019s a game retard
 11582,en_dataset_with_stop_words,0,0.0,,,,,,,A shithole country. @URL
 11583,en_dataset_with_stop_words,0,0.0,,,,,,1.0,why does no one say spic im sick of it
 11584,en_dataset_with_stop_words,0,,,,,,,,Undoubtedly the best centre half in premier league history. Possibly the biggest cunt in premier league history als\u2026 @URL
@@ -11595,7 +11595,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11594,en_dataset_with_stop_words,0,0.0,,,,,,,The beauty of living in a shithole country. Where I live the Post Office is so broken the device would never be del\u2026 @URL
 11595,en_dataset_with_stop_words,0,0.0,,,,,,1.0,@user Bout to get called a spic brb
 11596,en_dataset_with_stop_words,0,1.0,,,,,,,@user @user #shithole country #Haiti #Zimbabwe #Kenya \n #white_man only #live #work #service #black\u2026 @URL
-11597,en_dataset_with_stop_words,0,1.0,,,,,,,A nigger that votes our way.
+11597,en_dataset_with_stop_words,0,1.0,,,,,,1.0,A nigger that votes our way.
 11598,en_dataset_with_stop_words,0,,,,,,,,If you go back to your country and only stay in hotels is that really your country?
 11599,en_dataset_with_stop_words,0,,,,,,,,Lol dodgers are retarded haha \ud83d\ude02 going out tonight might be questionable dodgers fans going to get drunk and looking for fades haha
 11600,en_dataset_with_stop_words,0,,,,,,,,@user Yo ry ftg\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udc80\ud83d\udc80\ud83d\udc80\ud83d\udc80\ud83d\udc80\ud83d\udc80 fkn retard
@@ -11644,7 +11644,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 11643,en_dataset_with_stop_words,0,,,,,,,,These lobbies were my childhood \ud83d\ude22\nI\u2019ve been called a wetback spic so many times. @URL
 11644,en_dataset_with_stop_words,0,,,,,,,,@user @user Um...Trump referred to your country as a shithole??? Are you for real?
 11645,en_dataset_with_stop_words,0,0.0,,,,,,1.0,faggot
-11646,en_dataset_with_stop_words,1,0.0,,,,,,,@user you odd cunt
+11646,en_dataset_with_stop_words,1,0.0,,,,,,1.0,@user you odd cunt
 11647,en_dataset_with_stop_words,0,0.0,,,,,,,@user @user How much you wanna bet oil will be better this year? Put your money where your mouth is you little twat tester
 11648,en_dataset_with_stop_words,1,1.0,,,,,,,@user She is the fucking stupidest cunt on this planet
 11649,en_dataset_with_stop_words,0,0.0,,,,,,,@user When a negro shows you who they really are BELIEVE THEM. LOVE YOU MEEK...KEEP YOUR BEAUTIFUL HEAD UP. YOUR A KING.
