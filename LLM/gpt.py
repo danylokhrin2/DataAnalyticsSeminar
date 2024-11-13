@@ -1,8 +1,10 @@
 # setx OPENAI_API_KEY ""
 from openai import OpenAI
 
+client = OpenAI()
+
 def send_requestGPT(model, system_prompt, text):
-    client = OpenAI()
+    
     completion = client.chat.completions.create(
         model=model,
         messages=[
