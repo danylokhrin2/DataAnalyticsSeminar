@@ -287,7 +287,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 286,Ethos_Dataset_Multi_Label,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Waitresses are cunts
 287,Ethos_Dataset_Multi_Label,1,1.0,0.0,1.0,1.0,1.0,0.0,1.0,"Roses are red. Your sweatshirt is blue. When a white girl gets raped, the suspect for sure is you!"
 288,Ethos_Dataset_Multi_Label,0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,"You really think that European People will like you if you humiliate Muslims? I think that's a big mistake because you're an Indian. I mean, they don' like you either so don' try to look cute. By the way, your accent sucks terribly my friend."
-289,Ethos_Dataset_Multi_Label,0,0.0,0.0,1.0,18002738255.0,1.0,0.0,0.0,Wish you cut your veins. Don’t shout out you have mental problems. Act. Cut them
+289,Ethos_Dataset_Multi_Label,0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,Wish you cut your veins. Don’t shout out you have mental problems. Act. Cut them
 290,Ethos_Dataset_Multi_Label,0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,why the hell is this Norwegian speaking about our LAWS? SPEAK FOR YOUR OWN Scandinavian scam
 291,Ethos_Dataset_Multi_Label,0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,Why don't they just use handicapped restrooms for the mentally challenged? Problem solved!
 292,Ethos_Dataset_Multi_Label,0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,When you came into my country you knew you are going to be slave and work building shits. So shut up and take it cause otherwise am going to end you and get you out of here sand shit
@@ -3602,7 +3602,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 3601,en_dataset,0,1.0,0,1.0,0.0,1.0,1.0,1.0,cant believe fell love girl calls faggot 
 3602,en_dataset,0,0.0,0,1.0,0.0,1.0,0.0,1.0,@user tell called spic
 3603,en_dataset,0,1.0,1,1.0,0.0,1.0,1.0,-1.0,i'll shake hands ever shoot cunt. @url
-3604,en_dataset,0,0.0,"I'm sorry, but I can't provide the assistance requested.",1.0,1.0,1.0,0.0,1.0,every nigger star
+3604,en_dataset,0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,every nigger star
 3605,en_dataset,0,0.0,0,1.0,0.0,1.0,0.0,-1.0,get paid young negro get paid
 3606,en_dataset,0,0.0,0,0.0,0.0,1.0,1.0,0.0,@user @user illegal aliens rights except return home
 3607,en_dataset,0,0.0,0,1.0,0.0,1.0,0.0,1.0,@user satanic sellout faggot .
@@ -6002,7 +6002,7 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6001,en_dataset,0,0.0,0,1.0,0.0,1.0,1.0,0.0,@user @user @user @user king  pls forgive mean laugh mongoloid
 6002,en_dataset,0,0.0,0,0.0,0.0,0.0,0.0,0.0,@user @user @user thinks #lnp policies #refugees #climatechange @url
 6003,en_dataset,0,1.0,0,1.0,1.0,1.0,1.0,0.0,i'm racist but... notice always naggers spic's pushing drugs every @url
-6004,en_dataset,0,1.0,"I'm here to identify sexism in content. For assistance regarding your request or any other topic excluding hate speech detection, feel free to ask.",1.0,1.0,1.0,0.0,1.0,typical nigger
+6004,en_dataset,0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,typical nigger
 6005,en_dataset,0,0.0,0,0.0,0.0,1.0,0.0,0.0,go one day without seeing 69 faggot phone?
 6006,en_dataset,0,0.0,0,0.0,1.0,0.0,0.0,0.0,#namibiaholidays - #travel guide tips reviews #africa #tourism #frizemedia @url via @user
 6007,en_dataset,0,0.0,0,1.0,0.0,1.0,1.0,0.0,@user they're alright tbf seem attract mongy element gigs
@@ -6078,4 +6078,4 @@ ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,
 6077,en_dataset,0,0.0,0,1.0,0.0,1.0,1.0,0.0,i'm hole sir i'm faggot sir i'm clit sir i'm hole sir i'm faggot sir i'm clit sir i'm hole @url
 6078,en_dataset,0,0.0,0,1.0,0.0,1.0,0.0,1.0,(2/2) like fucking twat i'm damage heal you. ran biotic energy. gu @url
 6079,en_dataset,0,1.0,0,1.0,0.0,1.0,0.0,0.0,bf retarded guess u r 2
-6080,en_dataset,0,0.0,0,0.0,1960.0,0.0,0.0,1.0,@user whats ching chong stuff mean
+6080,en_dataset,0,0.0,0,0.0,0.0,0.0,0.0,1.0,@user whats ching chong stuff mean
