@@ -11,9 +11,7 @@ def mlma_preprocess():
         df = df[['text', 'SEXISM']]
         df.to_csv("./data/preprocessed/" + file, index=False)
         df['gpt-4o-mini'] = None
-        df = df[['text', 'SEXISM', 'gpt-4o-mini']]
-    
-                 
+        df = df[['text', 'SEXISM', 'gpt-4o-mini']]              
 
 # Ethos dataset
 def ethos_preprocess():
@@ -23,7 +21,6 @@ def ethos_preprocess():
     df = df[['text', 'SEXISM']]
     df.to_csv("./data/preprocessed/ethos/Ethos_Dataset_Multi_Label.csv", index=False)
     
-
 # TOXIGEN does not work since it only has 20 unique entries
 def text_to_csv():
     # Read the entire text file
@@ -46,10 +43,6 @@ def text_to_csv():
                 writer.writerow([entry, 1])
 
     print(f"Data successfully written to")
-
-
-import os
-import pandas as pd
 
 def combine_csv_files():
     combined_data = []  # List to hold data from each file
@@ -83,5 +76,30 @@ def combine_csv_files():
     combined_df.to_csv("./data/preprocessed/MASTER.csv", index=False)
     print(f"Combined CSV file saved as MASTER.csv")
 
-# Usage
-combine_csv_files()
+
+def add_directness():
+    df = pd.read_csv("./data/raw/MLMA-hate-speech/en_dataset.csv")
+    df['DIRECTNESS'] = df['directness'].apply(lambda x: 1 if x == 'direct' else 0)
+    df = df.rename(columns={"tweet": "text"})
+    df = df[['text', 'DIRECTNESS']]
+    df.to_csv("./data/preprocessed/MLMA-hate-speech/en_dataset_DIRECTNESS.csv" , index=False)
+
+
+def combine_directness_and_master():
+    df = pd.read_csv("./data/preprocessed/MLMA-hate-speech/en_dataset_DIRECTNESS.csv")
+    df2 = pd.read_csv("./data/result/MASTER.csv")
+    
+    merged_df = pd.merge(df, df2, on="text", how="outer")
+    
+    
+    # reorder the columns text,DIRECTNESS,ID,dataset,SEXISM,gpt-4o-mini,gpt-4-0125-preview,gpt-3.5-turbo-0125,llama3.2-3b,llama3.1-8b,llama3-8b,gemini-1.5-flash
+    merged_df = merged_df[['ID', 'dataset', 'SEXISM', 'DIRECTNESS', 'gpt-4o-mini', 'gpt-4-0125-preview', 'gpt-3.5-turbo-0125', 'llama3.2-3b', 'llama3.1-8b', 'llama3-8b', 'gemini-1.5-flash', 'text']]
+    
+    # Save the result to a new CSV file (optional)
+    merged_df.to_csv("./data/result/MASTER_DIRECT.csv", index=False)
+    
+    
+    
+    
+
+combine_directness_and_master()
